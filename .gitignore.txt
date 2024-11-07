@@ -1,0 +1,2 @@
+agentlogs/
+custom_agents/__pycache__/

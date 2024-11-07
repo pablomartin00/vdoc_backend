@@ -1,0 +1,45 @@
+2024-11-06 22:20:48,596 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha del Reporte:** 11/04/2018\n\n**Motivo del Reporte:**  Solicitar informaci\u00f3n adicional sobre el paciente para apoyar el diagn\u00f3stico de tendinitis de hombro izquierdo.\n\n**Resumen de la Historia Cl\u00ednica:**\n\n* **Motivo de consulta:** Dolor en el hombro izquierdo.\n* **Inicio del dolor:** 9/02/18.\n* **Descripci\u00f3n del dolor:** Mayor dolor al andar, que desciende hacia el codo con periferalizaci\u00f3n. Dolor al flexionar el hombro con peso. No dolor en la cama. Molestias al dormir de lado. No adormecimiento de los dedos de la mano. No dolor en reposo. Dolor en la zona del deltoides.\n* **Antecedentes:** Rotura de c\u00fabito y radio brazo derecho, estabilizada con placas hace 10 a\u00f1os. Operaci\u00f3n de apendicitis hace 21 a\u00f1os.\n* **Exploraci\u00f3n:** Dolor en el hombro izquierdo que se extiende a codo y mu\u00f1eca. Movilidad limitada por dolor en la flexi\u00f3n y abducci\u00f3n.\n* **Observaciones:** \"ARTICULAR\", \"MUSCULO-TENDINOSO\".\n* **Diagn\u00f3stico:** Tendinitis hombro izquierdo.\n* **Plan de Tratamiento:** Antiinflamatorio y reposo durante 2 semanas. Masaje.\n* **Pruebas de Imagen:** No se considera necesario inicialmente. Se valorar\u00e1 la posibilidad de realizar resonancia magn\u00e9tica en dos semanas, en funci\u00f3n de la evoluci\u00f3n. \n\n**An\u00e1lisis del Caso:**\n\nLa historia cl\u00ednica del paciente describe un dolor en el hombro izquierdo que se irradia hacia el codo y la mu\u00f1eca, compatible con una tendinitis del hombro izquierdo. La exploraci\u00f3n f\u00edsica confirma la limitaci\u00f3n de movilidad por dolor en la flexi\u00f3n y abducci\u00f3n. El paciente refiere dolor al andar y al flexionar el hombro con peso, lo que apunta a una afectaci\u00f3n de los m\u00fasculos y tendones del hombro.  \n\n**Preguntas a Considerar:**\n\nEl di\u00e1logo entre el doctor y el asistente sugiere que el doctor necesita informaci\u00f3n adicional sobre el paciente para confirmar el diagn\u00f3stico. \n\n**Preguntas al Doctor:**\n\n* **\u00bfQu\u00e9 informaci\u00f3n espec\u00edfica busca el doctor sobre el paciente?** Por ejemplo, detalles sobre el mecanismo de lesi\u00f3n, si ha realizado alguna actividad f\u00edsica intensa recientemente o si ha tenido alg\u00fan traumatismo en el hombro.\n* **\u00bfQu\u00e9 tipo de informaci\u00f3n adicional del paciente podr\u00eda ayudar a descartar otras posibles causas del dolor?**  Por ejemplo, si el paciente presenta debilidad muscular en el hombro o si experimenta adormecimiento o entumecimiento en los dedos.\n\n**Recomendaciones:**\n\nPara apoyar al doctor en el diagn\u00f3stico, es fundamental obtener la informaci\u00f3n espec\u00edfica que necesita sobre el paciente. Se recomienda realizar las siguientes acciones:\n\n* **Revisar la historia cl\u00ednica del paciente con atenci\u00f3n a los detalles del mecanismo de lesi\u00f3n y antecedentes de traumatismos.**\n* **Completar la exploraci\u00f3n f\u00edsica del paciente, incluyendo pruebas de fuerza muscular, sensibilidad y reflejos.**\n* **Solicitar pruebas de imagen, como una resonancia magn\u00e9tica, si se considera necesario.**\n\n**Conclusi\u00f3n:**\n\nEste informe proporciona una visi\u00f3n general de la historia cl\u00ednica del paciente, incluyendo las preguntas a considerar para obtener la informaci\u00f3n adicional necesaria para confirmar el diagn\u00f3stico. Se recomienda realizar las acciones descritas para apoyar al doctor en la toma de decisiones m\u00e9dicas. \n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 703,
+        "total_token_count": 1522
+      }
+    }),
+)
+2024-11-06 22:20:49,860 - DEBUG - #Assistant output: Según la carta natal, el paciente tiene antecedentes de rotura de cúbito y radio en el brazo derecho, estabilizada con placas hace 10 años. Esto podría indicar que el dolor en el brazo derecho podría estar relacionado con una lesión previa o una condición crónica como la tendinitis. ¿Te gustaría explorar más a fondo esta posibilidad?

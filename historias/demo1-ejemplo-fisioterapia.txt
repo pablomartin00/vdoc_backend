@@ -1,0 +1,79 @@
+## Historia Clínica - Antonio Paciente Demo 
+
+**Fecha del documento:** 11/04/2018
+
+**Profesional:** Profesional1 De La Demo
+
+**Clínica:** CELN
+**Dirección:** Clínica Demo, 5, Bajo
+**Localidad:** Demo
+**Teléfono:** 910000111
+**Correo electrónico:** info@clinica-celn.com
+
+**Datos del Paciente:**
+
+* **Nombre:** Antonio Paciente Demo
+* **NIF:** (1)
+* **Edad:** 41 años
+* **Sexo:** Hombre
+
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Anamnesis:**
+
+* Inicio del dolor: 9/02/18
+* Evolución: 4 años
+* Descripción del dolor:
+    * Mayor dolor al andar, que desciende hacia el codo con periferalización.
+    * Dolor al flexionar el hombro con peso.
+    * No dolor en la cama.
+    * Molestias al dormir de lado.
+    * No adormecimiento de los dedos de la mano.
+    * No dolor en reposo.
+    * Dolor en la zona del deltoides.
+* Antecedentes: No accidentes. 
+
+**Diagnóstico por Imagen:**
+
+* Inicialmente no se considera necesario.
+* En dos semanas, en función de la evolución, se considerará la posibilidad de realizar resonancia magnética.
+
+**Información Complementaria:**
+
+* **Intervenciones previas:**
+    * Rotura de cúbito y radio brazo derecho, estabilizada con placas hace 10 años.
+    * Operación de apendicitis hace 21 años.
+
+**Exploración:**
+
+* **Dolor:** Hombro izquierdo que se extiende a codo y muñeca.
+* **Movilidad:** Limitada por dolor en la flexión y abducción.
+* **Pruebas Ortopédicas:** No se especifica.
+* **Observaciones:** ["ARTICULAR", "MUSCULO-TENDINOSO"]
+
+**Bodychart:**
+
+* **Dolor:** Hombro izquierdo que se extiende a codo y muñeca.
+* **Pruebas de Sensibilidad:** Parte posterior del brazo izquierdo.
+
+**Hipótesis:**
+
+* **Dermatoma:** C5
+
+**Diagnóstico:**
+
+* **DX:** Tendinitis hombro izquierdo
+
+**Plan de Tratamiento:**
+
+* **Tto:** 
+    * Antiinflamatorio y reposo durante 2 semanas.
+    * Masaje.
+
+**Evolución:**
+
+* **EVO.-** No se especifica.
+
+**Observaciones:**
+
+* **OB:** Nueva visita en 2 semanas. 

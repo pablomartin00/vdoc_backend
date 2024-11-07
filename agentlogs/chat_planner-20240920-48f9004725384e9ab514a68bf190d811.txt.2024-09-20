@@ -1,0 +1,208 @@
+2024-09-20 17:42:14,834 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal.
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for dasdas -+
++----------+------+------------+--------------------+--------------------+
+| Date     | Time | Location   | Longitude          | Latitude           |
++----------+------+------------+--------------------+--------------------+
+| 1/1/1970 | 0:0  | London, GB | -58.44726562500001 | -34.65255610994439 |
++----------+------+------------+--------------------+--------------------+
++-------------+------+-------+------+---------------+
+| Planet      | Sign | Pos.  | Ret. | House         |
++-------------+------+-------+------+---------------+
+| Sun         | Cap  | 10.11 | -    | Seventh_House |
+| Moon        | Lib  | 10.17 | -    | Third_House   |
+| Mercury     | Cap  | 29.0  | -    | Seventh_House |
+| Venus       | Cap  | 4.4   | -    | Sixth_House   |
+| Mars        | Pis  | 12.2  | -    | Eighth_House  |
+| Jupiter     | Sco  | 2.32  | -    | Fourth_House  |
+| Saturn      | Tau  | 2.06  | R    | Tenth_House   |
+| Uranus      | Lib  | 8.72  | -    | Third_House   |
+| Neptune     | Sco  | 29.88 | -    | Fifth_House   |
+| Pluto       | Vir  | 27.39 | R    | Third_House   |
+| Mean_Node   | Pis  | 15.29 | R    | Eighth_House  |
+| True_Node   | Pis  | 14.06 | R    | Eighth_House  |
+| Chiron      | Ari  | 2.52  | -    | Ninth_House   |
+| Mean_Lilith | Leo  | 2.76  | -    | First_House   |
++-------------+------+-------+------+---------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Can  | 8.77     |
+| Second_House   | Leo  | 16.76    |
+| Third_House    | Vir  | 26.06    |
+| Fourth_House   | Lib  | 28.78    |
+| Fifth_House    | Sco  | 24.54    |
+| Sixth_House    | Sag  | 16.65    |
+| Seventh_House  | Cap  | 8.77     |
+| Eighth_House   | Aqu  | 16.76    |
+| Ninth_House    | Pis  | 26.06    |
+| Tenth_House    | Ari  | 28.78    |
+| Eleventh_House | Tau  | 24.54    |
+| Twelfth_House  | Gem  | 16.65    |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hola, dame un consejo para hoy
+<|eot_id|>
+
+2024-09-20 17:42:16,860 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'consejo para hoy', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'consejo para hoy', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-09-20 17:42:16,861 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'consejo para hoy', 'context_data': ''}/response_1 
+2024-09-20 17:42:16,861 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'consejo para hoy', 'context_data': ''}/response_2 
+2024-09-20 17:42:18,473 - DEBUG - #Assistant output: Según tu carta natal, hoy es un día para enfocarte en tus relaciones y comunicaciones. La Luna en Libra te brinda la oportunidad de equilibrar tus emociones y encontrar armonía en tus interacciones con los demás.
+
+Mi consejo para hoy es que te tomes un momento para reflexionar sobre tus relaciones y cómo puedes mejorar la comunicación con las personas que te rodean. Sé abierto y honesto en tus interacciones, y no tengas miedo de expresar tus sentimientos y necesidades.
+
+Recuerda que la armonía y el equilibrio son clave en tus relaciones, así que busca encontrar un punto medio que te permita mantener la paz y la estabilidad en tus interacciones con los demás.
+
+¿Te parece útil este consejo?
+2024-09-20 17:45:45,792 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal.
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for Daniel -+
++-----------+------+------------+--------------------+--------------------+
+| Date      | Time | Location   | Longitude          | Latitude           |
++-----------+------+------------+--------------------+--------------------+
+| 18/2/1980 | 0:0  | London, GB | -58.55438232421875 | -34.67564975682671 |
++-----------+------+------------+--------------------+--------------------+
++-------------+------+-------+------+---------------+
+| Planet      | Sign | Pos.  | Ret. | House         |
++-------------+------+-------+------+---------------+
+| Sun         | Aqu  | 28.44 | -    | Sixth_House   |
+| Moon        | Pis  | 20.78 | -    | Seventh_House |
+| Mercury     | Pis  | 16.41 | -    | Seventh_House |
+| Venus       | Ari  | 9.43  | -    | Seventh_House |
+| Mars        | Vir  | 8.62  | R    | First_House   |
+| Jupiter     | Vir  | 6.18  | R    | First_House   |
+| Saturn      | Vir  | 25.52 | R    | First_House   |
+| Uranus      | Sco  | 25.51 | -    | Third_House   |
+| Neptune     | Sag  | 22.32 | -    | Fourth_House  |
+| Pluto       | Lib  | 21.61 | R    | Second_House  |
+| Mean_Node   | Leo  | 29.36 | R    | Twelfth_House |
+| True_Node   | Leo  | 29.28 | -    | Twelfth_House |
+| Chiron      | Tau  | 9.57  | -    | Eighth_House  |
+| Mean_Lilith | Vir  | 24.75 | -    | First_House   |
++-------------+------+-------+------+---------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Vir  | 4.87     |
+| Second_House   | Lib  | 18.27    |
+| Third_House    | Sco  | 20.25    |
+| Fourth_House   | Sag  | 14.82    |
+| Fifth_House    | Cap  | 7.13     |
+| Sixth_House    | Aqu  | 1.67     |
+| Seventh_House  | Pis  | 4.87     |
+| Eighth_House   | Ari  | 18.27    |
+| Ninth_House    | Tau  | 20.25    |
+| Tenth_House    | Gem  | 14.82    |
+| Eleventh_House | Can  | 7.13     |
+| Twelfth_House  | Leo  | 1.67     |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Estoy teniendo problemas para iniciar una nueva vida, que dice mi carta natal al respecto?
+<|eot_id|>
+
+2024-09-20 17:45:48,011 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'Análisis de carta natal para problemas de inicio de nueva vida', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'ask_expert', 'parameters': {'query': '¿Qué planetas y casas están involucrados en el inicio de una nueva vida según mi carta natal?', 'context_data': ''}, 'save_as': 'response_2'}, {'step': 3, 'action': 'ask_expert', 'parameters': {'query': '¿Qué aspectos y transitos están afectando mi capacidad para iniciar una nueva vida?', 'context_data': 'response_2'}, 'save_as': 'response_3'}, {'step': 4, 'action': 'quick_answer', 'parameters': {'query': 'Análisis de carta natal para problemas de inicio de nueva vida', 'context_data': 'response_3'}, 'save_as': 'response_4'}]
+2024-09-20 17:45:48,012 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'Análisis de carta natal para problemas de inicio de nueva vida', 'context_data': ''}/response_1 
+2024-09-20 17:45:48,012 - DEBUG - #Execute plan, action, parameters, save_as: ask_expert/{'query': '¿Qué planetas y casas están involucrados en el inicio de una nueva vida según mi carta natal?', 'context_data': ''}/response_2 
+2024-09-20 17:45:48,012 - DEBUG - #Ask expert 
+2024-09-20 17:45:49,905 - DEBUG - #Assistant output: Según tu carta natal, parece que estás experimentando un período de transición y renovación. La posición de tu Sol en Acuario en la sexta casa sugiere que estás buscando encontrar un nuevo propósito y significado en tu vida diaria. Sin embargo, la Luna en Piscis en la séptima casa indica que también estás buscando estabilidad y seguridad en tus relaciones y emociones.
+
+La presencia de Marte en Virgo en la primera casa, en retroceso, puede estar causando algunas dificultades para iniciar nuevos proyectos y tomar decisiones. Esto puede estar relacionado con la falta de confianza en ti mismo o la necesidad de perfeccionar tus habilidades antes de lanzarte a algo nuevo.
+
+Júpiter en Virgo en la primera casa, también en retroceso, puede estar indicando que estás reevaluando tus creencias y valores personales, lo que puede estar afectando tu capacidad para tomar decisiones y avanzar en tu vida.
+
+Sin embargo, la posición de Urano en Escorpio en la tercera casa sugiere que tienes la capacidad de innovar y encontrar soluciones creativas para tus problemas. Esto puede ser un punto de partida para encontrar nuevas oportunidades y perspectivas en tu vida.
+
+En resumen, tu carta natal sugiere que estás en un período de transición y renovación, y que necesitas encontrar un nuevo propósito y significado en tu vida. Es importante que trabajes en tu confianza en ti mismo y en tus habilidades, y que busques encontrar soluciones creativas para tus problemas.
+2024-09-20 17:46:26,974 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal.
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for Daniel -+
++-----------+------+------------+--------------------+--------------------+
+| Date      | Time | Location   | Longitude          | Latitude           |
++-----------+------+------------+--------------------+--------------------+
+| 18/2/1980 | 0:0  | London, GB | -58.55438232421875 | -34.67564975682671 |
++-----------+------+------------+--------------------+--------------------+
++-------------+------+-------+------+---------------+
+| Planet      | Sign | Pos.  | Ret. | House         |
++-------------+------+-------+------+---------------+
+| Sun         | Aqu  | 28.44 | -    | Sixth_House   |
+| Moon        | Pis  | 20.78 | -    | Seventh_House |
+| Mercury     | Pis  | 16.41 | -    | Seventh_House |
+| Venus       | Ari  | 9.43  | -    | Seventh_House |
+| Mars        | Vir  | 8.62  | R    | First_House   |
+| Jupiter     | Vir  | 6.18  | R    | First_House   |
+| Saturn      | Vir  | 25.52 | R    | First_House   |
+| Uranus      | Sco  | 25.51 | -    | Third_House   |
+| Neptune     | Sag  | 22.32 | -    | Fourth_House  |
+| Pluto       | Lib  | 21.61 | R    | Second_House  |
+| Mean_Node   | Leo  | 29.36 | R    | Twelfth_House |
+| True_Node   | Leo  | 29.28 | -    | Twelfth_House |
+| Chiron      | Tau  | 9.57  | -    | Eighth_House  |
+| Mean_Lilith | Vir  | 24.75 | -    | First_House   |
++-------------+------+-------+------+---------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Vir  | 4.87     |
+| Second_House   | Lib  | 18.27    |
+| Third_House    | Sco  | 20.25    |
+| Fourth_House   | Sag  | 14.82    |
+| Fifth_House    | Cap  | 7.13     |
+| Sixth_House    | Aqu  | 1.67     |
+| Seventh_House  | Pis  | 4.87     |
+| Eighth_House   | Ari  | 18.27    |
+| Ninth_House    | Tau  | 20.25    |
+| Tenth_House    | Gem  | 14.82    |
+| Eleventh_House | Can  | 7.13     |
+| Twelfth_House  | Leo  | 1.67     |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Estoy teniendo problemas para iniciar una nueva vida, que dice mi carta natal al respecto?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Según tu carta natal, parece que estás experimentando un período de transición y renovación. La posición de tu Sol en Acuario en la sexta casa sugiere que estás buscando encontrar un nuevo propósito y significado en tu vida diaria. Sin embargo, la Luna en Piscis en la séptima casa indica que también estás buscando estabilidad y seguridad en tus relaciones y emociones.
+
+La presencia de Marte en Virgo en la primera casa, en retroceso, puede estar causando algunas dificultades para iniciar nuevos proyectos y tomar decisiones. Esto puede estar relacionado con la falta de confianza en ti mismo o la necesidad de perfeccionar tus habilidades antes de lanzarte a algo nuevo.
+
+Júpiter en Virgo en la primera casa, también en retroceso, puede estar indicando que estás reevaluando tus creencias y valores personales, lo que puede estar afectando tu capacidad para tomar decisiones y avanzar en tu vida.
+
+Sin embargo, la posición de Urano en Escorpio en la tercera casa sugiere que tienes la capacidad de innovar y encontrar soluciones creativas para tus problemas. Esto puede ser un punto de partida para encontrar nuevas oportunidades y perspectivas en tu vida.
+
+En resumen, tu carta natal sugiere que estás en un período de transición y renovación, y que necesitas encontrar un nuevo propósito y significado en tu vida. Es importante que trabajes en tu confianza en ti mismo y en tus habilidades, y que busques encontrar soluciones creativas para tus problemas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+porque estoy teniendo problemas de pareja?
+<|eot_id|>
+
+2024-09-20 17:46:28,627 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'problemas de pareja', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'ask_expert', 'parameters': {'query': '¿Qué factores astrológicos pueden estar influyendo en mis problemas de pareja?', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-09-20 17:46:28,629 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'problemas de pareja', 'context_data': ''}/response_1 
+2024-09-20 17:46:28,629 - DEBUG - #Execute plan, action, parameters, save_as: ask_expert/{'query': '¿Qué factores astrológicos pueden estar influyendo en mis problemas de pareja?', 'context_data': ''}/response_2 
+2024-09-20 17:46:28,629 - DEBUG - #Ask expert 
+2024-09-20 17:46:30,850 - DEBUG - #Assistant output: Según tu carta natal, parece que estás experimentando algunos desafíos en tu relación de pareja. La posición de Venus en Aries en la séptima casa sugiere que estás buscando independencia y libertad en tus relaciones, lo que puede estar causando tensiones con tu pareja.
+
+La Luna en Piscis en la séptima casa también indica que estás buscando una conexión emocional profunda con tu pareja, pero que también puedes ser muy sensible y emocional en tus interacciones con ellos. Esto puede estar causando conflictos y malentendidos en la relación.
+
+Además, la presencia de Saturno en Virgo en la primera casa puede estar indicando que estás poniendo demasiadas expectativas y presión en ti mismo para que la relación sea perfecta, lo que puede estar causando estrés y ansiedad en la relación.
+
+La posición de Marte en Virgo en la primera casa, en retroceso, también puede estar indicando que estás teniendo dificultades para expresar tus necesidades y deseos en la relación, lo que puede estar causando frustración y resentimiento.
+
+Sin embargo, la posición de Júpiter en Virgo en la primera casa, también en retroceso, sugiere que estás reevaluando tus creencias y valores personales en cuanto a las relaciones, lo que puede ser un punto de partida para encontrar una nueva perspectiva y enfoque en tu relación.
+
+En resumen, tu carta natal sugiere que estás experimentando desafíos en tu relación de pareja debido a la búsqueda de independencia y libertad, la sensibilidad emocional y las expectativas y presiones que estás poniendo en ti mismo. Es importante que trabajes en la comunicación y la expresión de tus necesidades y deseos en la relación, y que busques encontrar una nueva perspectiva y enfoque en tu relación.

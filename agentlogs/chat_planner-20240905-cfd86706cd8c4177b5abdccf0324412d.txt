@@ -1,0 +1,9 @@
+2024-09-05 19:10:20,322 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Hello, ask me something.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cuantos son los signos del zodiaco?
+<|eot_id|>
+
+2024-09-05 19:10:21,500 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'quick_answer', 'parameters': {'query': 'cuantos son los signos del zodiaco?', 'context_data': ''}, 'save_as': 'response_1'}]
+2024-09-05 19:10:21,503 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'cuantos son los signos del zodiaco?', 'context_data': ''}/response_1 

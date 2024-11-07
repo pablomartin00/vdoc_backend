@@ -1,0 +1,11 @@
+2024-09-05 18:52:52,884 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Hello, ask me something.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cuantos son los signos del zodiaco?
+<|eot_id|>
+
+2024-09-05 18:52:54,312 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'how many zodiac signs are there?', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'There are 12 zodiac signs.', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-09-05 18:52:54,315 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'how many zodiac signs are there?', 'context_data': ''}/response_1 
+2024-09-05 18:52:54,316 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'There are 12 zodiac signs.', 'context_data': ''}/response_2 
+2024-09-05 18:52:55,951 - DEBUG - #Assistant output: Según nuestros expertos, hay 12 signos del zodiaco.

@@ -1,0 +1,59 @@
+2024-09-05 23:00:55,213 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica, por favor dame tu nombre y datos de nacimiento para empezar.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Nombre: dasd, Fecha de nacimiento: 2024-09-18, Coordenadas: 51.50701330692589, -0.09615800580426993
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for dasd -+
++-----------+------+------------+----------------------+-------------------+
+| Date      | Time | Location   | Longitude            | Latitude          |
++-----------+------+------------+----------------------+-------------------+
+| 18/9/2024 | 0:0  | London, GB | -0.09615800580426993 | 51.50701330692589 |
++-----------+------+------------+----------------------+-------------------+
++-------------+------+-------+------+----------------+
+| Planet      | Sign | Pos.  | Ret. | House          |
++-------------+------+-------+------+----------------+
+| Sun         | Vir  | 25.49 | -    | Fourth_House   |
+| Moon        | Pis  | 22.77 | -    | Tenth_House    |
+| Mercury     | Vir  | 14.42 | -    | Fourth_House   |
+| Venus       | Lib  | 23.67 | -    | Fifth_House    |
+| Mars        | Can  | 7.69  | -    | First_House    |
+| Jupiter     | Gem  | 20.59 | -    | Twelfth_House  |
+| Saturn      | Pis  | 15.29 | R    | Tenth_House    |
+| Uranus      | Tau  | 27.15 | R    | Twelfth_House  |
+| Neptune     | Pis  | 28.6  | R    | Eleventh_House |
+| Pluto       | Cap  | 29.78 | R    | Eighth_House   |
+| Mean_Node   | Ari  | 7.06  | R    | Eleventh_House |
+| True_Node   | Ari  | 6.62  | R    | Eleventh_House |
+| Chiron      | Ari  | 22.38 | R    | Eleventh_House |
+| Mean_Lilith | Lib  | 8.92  | -    | Fifth_House    |
++-------------+------+-------+------+----------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Can  | 0.24     |
+| Second_House   | Can  | 16.64    |
+| Third_House    | Leo  | 3.65     |
+| Fourth_House   | Leo  | 24.94    |
+| Fifth_House    | Vir  | 26.31    |
+| Sixth_House    | Sco  | 13.74    |
+| Seventh_House  | Cap  | 0.24     |
+| Eighth_House   | Cap  | 16.64    |
+| Ninth_House    | Aqu  | 3.65     |
+| Tenth_House    | Aqu  | 24.94    |
+| Eleventh_House | Pis  | 26.31    |
+| Twelfth_House  | Tau  | 13.74    |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+asdasd
+<|eot_id|>
+
+2024-09-05 23:00:57,644 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'No query to process', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'No query to process', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-09-05 23:00:57,648 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'No query to process', 'context_data': ''}/response_1 
+2024-09-05 23:00:57,649 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'No query to process', 'context_data': ''}/response_2 
+2024-09-05 23:00:58,458 - DEBUG - #Assistant output: Lo siento, pero no tengo información relacionada con tu consulta "asdasd". ¿Podrías proporcionar más contexto o detalles sobre lo que estás buscando? Estoy aquí para ayudarte con cualquier pregunta relacionada con finanzas y inversiones.

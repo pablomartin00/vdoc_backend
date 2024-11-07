@@ -1,0 +1,108 @@
+2024-10-14 11:37:03,918 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+objetivo demi vida?
+<|eot_id|>
+
+2024-10-14 11:37:07,074 - DEBUG - #Chat planner choice: El Sol está en Acuario, en la posición 28.44 en la casa sexta. Esto influye en la búsqueda de objetivos de vida relacionados con la humanidad y la tecnología.
+
+La casa sexta está en el signo de Acuario, en la posición 1.72. Esto indica que el objetivo de vida está relacionado con la salud, el trabajo y el servicio a los demás.
+
+Júpiter está en Virgo, en la posición 6.18 en la casa primera, y se encuentra en retrogradación. Esto sugiere que el objetivo de vida está relacionado con la perfección y la mejora personal.
+
+La casa primera está en el signo de Virgo, en la posición 4.93. Esto indica que el objetivo de vida está relacionado con la auto-imagen y la personalidad.
+
+Urano está en Escorpio, en la posición 25.51 en la casa tercera. Esto sugiere que el objetivo de vida está relacionado con la comunicación y la innovación.
+
+La casa tercera está en el signo de Escorpio, en la posición 20.27. Esto indica que el objetivo de vida está relacionado con la comunicación y la expresión personal.
+
+Neptuno está en Sagitario, en la posición 22.32 en la casa cuarta. Esto sugiere que el objetivo de vida está relacionado con la espiritualidad y la expansión personal.
+
+La casa cuarta está en el signo de Sagitario, en la posición 14.85. Esto indica que el objetivo de vida está relacionado con la familia y la seguridad emocional.
+
+Quirón está en Tauro, en la posición 9.57 en la casa octava. Esto sugiere que el objetivo de vida está relacionado con la sanación y la transformación personal.
+
+La casa octava está en el signo de Aries, en la posición 18.3. Esto indica que el objetivo de vida está relacionado con la pasión y la energía personal.
+
+El Nodo Medio está en Leo, en la posición 29.36 en la casa duodécima, y se encuentra en retrogradación. Esto sugiere que el objetivo de vida está relacionado con la creatividad y la auto-expresión.
+
+La casa duodécima está en el signo de Leo, en la posición 1.72. Esto indica que el objetivo de vida está relacionado con la espiritualidad y la conexión con lo divino.
+2024-10-14 11:37:08,970 - DEBUG - #Assistant output: Excelente pregunta. Según tu carta natal, parece que tienes una gran variedad de influencias que te guían hacia diferentes objetivos en la vida. Sin embargo, si tuviera que resumirlo en un objetivo principal, diría que tu objetivo de vida está relacionado con la búsqueda de la perfección y la mejora personal en el servicio a los demás.
+
+La presencia de Júpiter en Virgo en la casa primera sugiere que tienes una gran necesidad de perfeccionar tus habilidades y mejorar constantemente. Esto se combina con la influencia de Acuario en la casa sexta, que te impulsa a buscar objetivos relacionados con la humanidad y la tecnología.
+
+Además, la posición de Urano en Escorpio en la casa tercera sugiere que tienes una gran capacidad para innovar y comunicar ideas que pueden beneficiar a los demás. Esto se refleja en tu necesidad de expresarte de manera auténtica y única.
+
+Sin embargo, es importante destacar que tu objetivo de vida no es solo sobre ti mismo, sino también sobre cómo puedes contribuir a la sociedad de manera significativa. La presencia del Nodo Medio en Leo en la casa duodécima sugiere que tienes una gran capacidad para crear y expresarte de manera auténtica, pero también que debes aprender a dejar ir tus miedos y limitaciones para alcanzar tu máximo potencial.
+
+En resumen, tu objetivo de vida es encontrar la perfección y la mejora personal en el servicio a los demás, a través de la innovación, la comunicación y la creatividad. ¿Te sientes conectado con esta interpretación?
+2024-10-14 11:37:26,629 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+objetivo demi vida?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Excelente pregunta. Según tu carta natal, parece que tienes una gran variedad de influencias que te guían hacia diferentes objetivos en la vida. Sin embargo, si tuviera que resumirlo en un objetivo principal, diría que tu objetivo de vida está relacionado con la búsqueda de la perfección y la mejora personal en el servicio a los demás.
+
+La presencia de Júpiter en Virgo en la casa primera sugiere que tienes una gran necesidad de perfeccionar tus habilidades y mejorar constantemente. Esto se combina con la influencia de Acuario en la casa sexta, que te impulsa a buscar objetivos relacionados con la humanidad y la tecnología.
+
+Además, la posición de Urano en Escorpio en la casa tercera sugiere que tienes una gran capacidad para innovar y comunicar ideas que pueden beneficiar a los demás. Esto se refleja en tu necesidad de expresarte de manera auténtica y única.
+
+Sin embargo, es importante destacar que tu objetivo de vida no es solo sobre ti mismo, sino también sobre cómo puedes contribuir a la sociedad de manera significativa. La presencia del Nodo Medio en Leo en la casa duodécima sugiere que tienes una gran capacidad para crear y expresarte de manera auténtica, pero también que debes aprender a dejar ir tus miedos y limitaciones para alcanzar tu máximo potencial.
+
+En resumen, tu objetivo de vida es encontrar la perfección y la mejora personal en el servicio a los demás, a través de la innovación, la comunicación y la creatividad. ¿Te sientes conectado con esta interpretación?
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hazme un snippet de python que muestre este reporte en mayusculas
+<|eot_id|>
+
+2024-10-14 11:37:31,394 - DEBUG - #Chat planner choice: **REPORTE DE CARTA NATAL**
+
+**PLANETAS**
+
+* JÚPITER ESTÁ EN VIRGO, EN LA POSICIÓN 6.18 EN LA CASA PRIMERA, Y SE ENCUENTRA EN RETROGRADACIÓN. ESTO INFLUYE EN TU OBJETIVO DE VIDA, TE IMPULSA A BUSCAR LA PERFECCIÓN Y LA MEJORA PERSONAL EN EL SERVICIO A LOS DEMÁS.
+* URANO ESTÁ EN ESCORPIO, EN LA POSICIÓN 25.51 EN LA CASA TERCERA. ESTO TE DA UNA GRAN CAPACIDAD PARA INNOVAR Y COMUNICAR IDEAS QUE PUEDEN BENEFICIAR A LOS DEMÁS.
+* EL NODO MEDIO ESTÁ EN LEO, EN LA POSICIÓN 29.36 EN LA CASA DUODÉCIMA, Y SE ENCUENTRA EN RETROGRADACIÓN. ESTO TE DA UNA GRAN CAPACIDAD PARA CREAR Y EXPRESARTE DE MANERA AUTÉNTICA, PERO TAMBIÉN TE IMPULSA A APRENDER A DEJAR IR TUS MIEDOS Y LIMITACIONES PARA ALCANZAR TU MÁXIMO POTENCIAL.
+
+**CASAS**
+
+* LA CASA PRIMERA ESTÁ EN EL SIGNO DE VIRGO, EN LA POSICIÓN 4.93. ESTO TE DA UNA GRAN NECESIDAD DE PERFECCIONAR TUS HABILIDADES Y MEJORAR CONSTANTEMENTE.
+* LA CASA SEXTA ESTÁ EN EL SIGNO DE ACUARIO, EN LA POSICIÓN 1.72. ESTO TE IMPULSA A BUSCAR OBJETIVOS RELACIONADOS CON LA HUMANIDAD Y LA TECNOLOGÍA.
+
+**CODIGO PYTHON PARA GENERAR EL REPORTE EN MAYÚSCULAS**
+
+```python
+reporte = """
+**REPORTE DE CARTA NATAL**
+
+**PLANETAS**
+
+* JÚPITER ESTÁ EN VIRGO, EN LA POSICIÓN 6.18 EN LA CASA PRIMERA, Y SE ENCUENTRA EN RETROGRADACIÓN. ESTO INFLUYE EN TU OBJETIVO DE VIDA, TE IMPULSA A BUSCAR LA PERFECCIÓN Y LA MEJORA PERSONAL EN EL SERVICIO A LOS DEMÁS.
+* URANO ESTÁ EN ESCORPIO, EN LA POSICIÓN 25.51 EN LA CASA TERCERA. ESTO TE DA UNA GRAN CAPACIDAD PARA INNOVAR Y COMUNICAR IDEAS QUE PUEDEN BENEFICIAR A LOS DEMÁS.
+* EL NODO MEDIO ESTÁ EN LEO, EN LA POSICIÓN 29.36 EN LA CASA DUODÉCIMA, Y SE ENCUENTRA EN RETROGRADACIÓN. ESTO TE DA UNA GRAN CAPACIDAD PARA CREAR Y EXPRESARTE DE MANERA AUTÉNTICA, PERO TAMBIÉN TE IMPULSA A APRENDER A DEJAR IR TUS MIEDOS Y LIMITACIONES PARA ALCANZAR TU MÁXIMO POTENCIAL.
+
+**CASAS**
+
+* LA CASA PRIMERA ESTÁ EN EL SIGNO DE VIRGO, EN LA POSICIÓN 4.93. ESTO TE DA UNA GRAN NECESIDAD DE PERFECCIONAR TUS HABILIDADES Y MEJORAR CONSTANTEMENTE.
+* LA CASA SEXTA ESTÁ EN EL SIGNO DE ACUARIO, EN LA POSICIÓN 1.72. ESTO TE IMPULSA A BUSCAR OBJETIVOS RELACIONADOS CON LA HUMANIDAD Y LA TECNOLOGÍA.
+"""
+
+print(reporte.upper())
+```
+2024-10-14 11:37:35,271 - DEBUG - #Assistant output: ```python
+reporte = """
+Tu objetivo de vida es encontrar la perfección y la mejora personal en el servicio a los demás, a través de la innovación, la comunicación y la creatividad.
+
+La presencia de Júpiter en Virgo en la casa primera sugiere que tienes una gran necesidad de perfeccionar tus habilidades y mejorar constantemente. Esto se combina con la influencia de Acuario en la casa sexta, que te impulsa a buscar objetivos relacionados con la humanidad y la tecnología.
+
+Además, la posición de Urano en Escorpio en la casa tercera sugiere que tienes una gran capacidad para innovar y comunicar ideas que pueden beneficiar a los demás. Esto se refleja en tu necesidad de expresarte de manera auténtica y única.
+
+Sin embargo, es importante destacar que tu objetivo de vida no es solo sobre ti mismo, sino también sobre cómo puedes contribuir a la sociedad de manera significativa. La presencia del Nodo Medio en Leo en la casa duodécima sugiere que tienes una gran capacidad para crear y expresarte de manera auténtica, pero también que debes aprender a dejar ir tus miedos y limitaciones para alcanzar tu máximo potencial.
+"""
+
+print(reporte.upper())
+```
+
+Esto imprimirá el reporte en mayúsculas.

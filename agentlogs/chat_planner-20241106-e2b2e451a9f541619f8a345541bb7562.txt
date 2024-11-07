@@ -1,0 +1,315 @@
+2024-11-06 22:51:54,996 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha de Consulta:** 11/04/2018\n\n**Resumen:**\n\nEl paciente Antonio Paciente Demo, de 41 a\u00f1os, acude a consulta por dolor en el hombro izquierdo que se inici\u00f3 el 9/02/18. El dolor se intensifica al andar, se irradia hacia el codo y mu\u00f1eca, y se exacerba al flexionar el hombro con peso. El paciente refiere molestias al dormir de lado, pero no adormecimiento de los dedos de la mano ni dolor en reposo.  \n\n**Diagn\u00f3stico:** Tendinitis hombro izquierdo.\n\n**Exploraci\u00f3n:**\n\n* **Dolor:**  Se localiza en el hombro izquierdo y se extiende al codo y mu\u00f1eca.\n* **Movilidad:** Limitada por dolor en la flexi\u00f3n y abducci\u00f3n.\n* **Pruebas Ortop\u00e9dicas:** No se especifica.\n* **Observaciones:** [\"ARTICULAR\", \"MUSCULO-TENDINOSO\"]\n\n**Bodychart:**\n\n* **Dolor:** Hombro izquierdo que se extiende a codo y mu\u00f1eca.\n* **Pruebas de Sensibilidad:** Parte posterior del brazo izquierdo.\n\n**An\u00e1lisis:**\n\n* **Dermatoma:** C5. \n* **Hip\u00f3tesis:** Se sospecha tendinitis del hombro izquierdo, bas\u00e1ndose en la localizaci\u00f3n del dolor, la intensificaci\u00f3n con el movimiento y la ausencia de dolor en reposo. La presencia de dolor irradiado hacia el codo y la mu\u00f1eca apoya la hip\u00f3tesis de afectaci\u00f3n de estructuras tendinosas o musculares, sin descartar la posibilidad de compresi\u00f3n nerviosa. \n\n**Recomendaciones:**\n\n* **Estudio de Imagen:** Es fundamental realizar una resonancia magn\u00e9tica para descartar otras patolog\u00edas como lesiones del manguito rotador, atrapamiento del nervio supraescapular, o incluso afectaci\u00f3n del nervio radial, que pueden explicar la irradiaci\u00f3n del dolor y la limitaci\u00f3n funcional. \n* **Tratamiento:** El tratamiento actual de antiinflamatorios y reposo parece adecuado para la tendinitis. Sin embargo, es importante evaluar los resultados del estudio de imagen y valorar la necesidad de un tratamiento m\u00e1s espec\u00edfico, como fisioterapia o infiltraci\u00f3n, si se detecta alguna otra patolog\u00eda. \n\n**Conclusi\u00f3n:**\n\nEs necesario completar la evaluaci\u00f3n del paciente con una resonancia magn\u00e9tica para determinar la causa exacta del dolor. Se recomienda una nueva visita al especialista para revisar los resultados de la imagen y determinar el tratamiento m\u00e1s apropiado. \n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 525,
+        "total_token_count": 1344
+      }
+    }),
+)
+2024-11-06 22:51:56,271 - DEBUG - #Assistant output: Considerando que el paciente ha realizado abdominales recientemente, es probable que el dolor en el abdomen sea causado por una lesión muscular o una distensión en los músculos abdominales. Sin embargo, no hay información en el informe proporcionado que sugiera una condición médica subyacente que pueda estar relacionada con el dolor abdominal. Sería recomendable realizar un examen físico y obtener más información sobre la naturaleza del dolor para determinar la causa exacta.
+2024-11-06 22:52:26,466 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha de la Historia Cl\u00ednica:** 11/04/2018\n\n**Motivo de Consulta:** Dolor en el hombro izquierdo\n\n**Resumen de la Historia Cl\u00ednica:**\n\nEl paciente, Antonio Paciente Demo, de 41 a\u00f1os, presenta dolor en el hombro izquierdo desde el 9/02/18. El dolor se describe como:\n\n* Mayor al andar, descendiendo hacia el codo con periferalizaci\u00f3n.\n* Dolor al flexionar el hombro con peso.\n* Ausencia de dolor en la cama.\n* Molestias al dormir de lado.\n* No adormecimiento de los dedos de la mano.\n* Ausencia de dolor en reposo.\n* Dolor en la zona del deltoides.\n\n**Diagn\u00f3stico:** Tendinitis hombro izquierdo.\n\n**Plan de Tratamiento:**\n\n* Antiinflamatorio y reposo durante 2 semanas.\n* Masaje.\n\n**Exploraci\u00f3n:**\n\n* Dolor en el hombro izquierdo que se extiende al codo y mu\u00f1eca.\n* Movilidad limitada por dolor en la flexi\u00f3n y abducci\u00f3n.\n* **Importante:** No se especifica en la historia cl\u00ednica qu\u00e9 pruebas ortop\u00e9dicas se realizaron. \n\n**Observaciones:**\n\n* **Dermatoma:** C5\n* **Bodychart:** Dolor en hombro izquierdo que se extiende a codo y mu\u00f1eca, sensibilidad en la parte posterior del brazo izquierdo.\n* **Antecedentes:** Rotura de c\u00fabito y radio brazo derecho estabilizado con placas hace 10 a\u00f1os, operaci\u00f3n de apendicitis hace 21 a\u00f1os.\n* No se especifica la evoluci\u00f3n del paciente en la historia cl\u00ednica.\n\n**Pregunta del M\u00e9dico:**  {query}\n\n\n**An\u00e1lisis:**\n\nPara responder de forma efectiva a la pregunta del m\u00e9dico, se requiere informaci\u00f3n adicional sobre el contexto del di\u00e1logo. Por favor, proporcione el di\u00e1logo entre el m\u00e9dico y el asistente para que pueda comprender la duda espec\u00edfica del m\u00e9dico y brindar una respuesta adecuada.\n\n**Recomendaciones:**\n\n* Revisar la historia cl\u00ednica del paciente para verificar si se realizaron otras pruebas ortop\u00e9dicas y a\u00f1adir dicha informaci\u00f3n al informe.\n* Consultar al asistente m\u00e9dico sobre el contexto del di\u00e1logo para comprender la pregunta del m\u00e9dico y brindar una respuesta precisa.\n* Actualizar la historia cl\u00ednica con la evoluci\u00f3n del paciente, incluyendo los resultados de las pruebas realizadas y la respuesta al tratamiento.\n\n**Nota:** El informe t\u00e9cnico m\u00e9dico se completa una vez que se proporcione la informaci\u00f3n adicional del di\u00e1logo.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 523,
+        "total_token_count": 1342
+      }
+    }),
+)
+2024-11-06 22:52:27,331 - DEBUG - #Assistant output: Según el informe, no hay información específica sobre la zona abdominal del paciente. El informe se centra en el dolor en el hombro izquierdo y la tendinitis diagnosticada en esa área. No se menciona el abdomen en el informe proporcionado.
+2024-11-06 22:52:39,007 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha:** 11/04/2018\n\n**Motivo de Consulta:** Dolor en el hombro izquierdo\n\n**Diagn\u00f3stico:** Tendinitis hombro izquierdo\n\n**Contexto:** El Dr. solicita informaci\u00f3n adicional para determinar si la tendinitis es la causa principal del dolor del paciente.\n\n**An\u00e1lisis:**\n\nLa historia cl\u00ednica de Antonio Paciente Demo describe un dolor en el hombro izquierdo que se inicia en el 9/02/18. El dolor se intensifica al caminar y al flexionar el hombro con peso, extendi\u00e9ndose hasta el codo y la mu\u00f1eca. \n\n**Observaciones relevantes:**\n\n* El paciente menciona que el dolor desciende hacia el codo con periferalizaci\u00f3n, lo que sugiere una posible afectaci\u00f3n de nervios.\n* El dolor se presenta al flexionar el hombro con peso, lo que apunta a una afectaci\u00f3n de la musculatura del hombro.\n* El paciente no refiere dolor en reposo, lo que podr\u00eda ser un indicativo de que no se trata de una patolog\u00eda inflamatoria aguda.\n* La exploraci\u00f3n f\u00edsica revela limitaci\u00f3n en la movilidad del hombro por dolor en la flexi\u00f3n y abducci\u00f3n.\n* La hip\u00f3tesis de dermatoma C5 podr\u00eda estar relacionada con el dolor que se extiende hasta la mu\u00f1eca.\n\n**Recomendaci\u00f3n:**\n\nConsiderando la informaci\u00f3n disponible, se recomienda realizar una exploraci\u00f3n m\u00e1s detallada del paciente:\n\n1. **Evaluaci\u00f3n neurol\u00f3gica:** Para determinar si existe alg\u00fan tipo de afectaci\u00f3n nerviosa que explique la periferalizaci\u00f3n del dolor y la extensi\u00f3n hasta la mu\u00f1eca.\n2. **Pruebas de imagen:** Se recomienda realizar una resonancia magn\u00e9tica del hombro para descartar otras patolog\u00edas como desgarros musculares, lesiones del manguito rotador o atrapamiento de nervios.\n3. **Estudio de electromiograf\u00eda:** Para descartar una posible radiculopat\u00eda que podr\u00eda estar causando el dolor.\n\n**Conclusi\u00f3n:**\n\nLa informaci\u00f3n disponible es insuficiente para determinar con certeza la causa del dolor del paciente. Se requiere una exploraci\u00f3n m\u00e1s exhaustiva para descartar otras patolog\u00edas y determinar el tratamiento m\u00e1s adecuado.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 447,
+        "total_token_count": 1266
+      }
+    }),
+)
+2024-11-06 22:52:39,825 - DEBUG - #Assistant output: No, según el informe proporcionado, no hay información que sugiera una condición relacionada con el apéndice. El informe se centra en el dolor en el hombro izquierdo y la tendinitis diagnosticada en esa área, y no se menciona el apéndice ni el abdomen en general.
+2024-11-06 22:54:04,066 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte t\u00e9cnico m\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha:** 11/04/2018\n\n**Motivo de consulta:** Dolor en el hombro izquierdo\n\n**Anamnesis:**\n\n* Inicio del dolor: 9/02/18\n* Evoluci\u00f3n: 4 a\u00f1os\n* Descripci\u00f3n del dolor:\n    * Mayor dolor al andar, que desciende hacia el codo con periferalizaci\u00f3n.\n    * Dolor al flexionar el hombro con peso.\n    * No dolor en la cama.\n    * Molestias al dormir de lado.\n    * No adormecimiento de los dedos de la mano.\n    * No dolor en reposo.\n    * Dolor en la zona del deltoides.\n* Antecedentes: No accidentes.\n\n**Diagn\u00f3stico por Imagen:**\n\n* Inicialmente no se considera necesario.\n* En dos semanas, en funci\u00f3n de la evoluci\u00f3n, se considerar\u00e1 la posibilidad de realizar resonancia magn\u00e9tica.\n\n**Informaci\u00f3n Complementaria:**\n\n* **Intervenciones previas:**\n    * Rotura de c\u00fabito y radio brazo derecho, estabilizada con placas hace 10 a\u00f1os.\n    * Operaci\u00f3n de apendicitis hace 21 a\u00f1os.\n\n**Exploraci\u00f3n:**\n\n* **Dolor:** Hombro izquierdo que se extiende a codo y mu\u00f1eca.\n* **Movilidad:** Limitada por dolor en la flexi\u00f3n y abducci\u00f3n.\n* **Pruebas Ortop\u00e9dicas:** No se especifica.\n* **Observaciones:** [\"ARTICULAR\", \"MUSCULO-TENDINOSO\"]\n\n**Bodychart:**\n\n* **Dolor:** Hombro izquierdo que se extiende a codo y mu\u00f1eca.\n* **Pruebas de Sensibilidad:** Parte posterior del brazo izquierdo.\n\n**Hip\u00f3tesis:**\n\n* **Dermatoma:** C5\n\n**Diagn\u00f3stico:**\n\n* **DX:** Tendinitis hombro izquierdo\n\n**Plan de Tratamiento:**\n\n* **Tto:** \n    * Antiinflamatorio y reposo durante 2 semanas.\n    * Masaje.\n\n**Evoluci\u00f3n:**\n\n* **EVO.-** No se especifica.\n\n**Observaciones:**\n\n* **OB:** Nueva visita en 2 semanas. \n\n**An\u00e1lisis del caso:**\n\nEl paciente Antonio Paciente Demo, de 41 a\u00f1os, presenta dolor en el hombro izquierdo desde hace 4 a\u00f1os. El dolor se irradia hacia el codo y la mu\u00f1eca, intensific\u00e1ndose al andar y al flexionar el hombro con peso. No experimenta dolor en reposo ni adormecimiento de los dedos. La exploraci\u00f3n f\u00edsica revela limitaci\u00f3n de la movilidad en la flexi\u00f3n y abducci\u00f3n del hombro, con dolor a la palpaci\u00f3n.\n\nEl diagn\u00f3stico actual es tendinitis del hombro izquierdo, basado en la historia cl\u00ednica y la exploraci\u00f3n f\u00edsica. Se ha descartado inicialmente la necesidad de pruebas de imagen, pero se considera la posibilidad de realizar una resonancia magn\u00e9tica en dos semanas si no hay mejor\u00eda.\n\n**Recomendaciones:**\n\n* Se recomienda seguir el plan de tratamiento actual, incluyendo antiinflamatorios y reposo, durante las pr\u00f3ximas dos semanas.\n* Se debe realizar un seguimiento del paciente en dos semanas para evaluar la evoluci\u00f3n del dolor y considerar la posibilidad de realizar una resonancia magn\u00e9tica.\n* Si el dolor persiste o empeora, se deben explorar otras causas, como lesiones del manguito rotador, atrapamiento nervioso o s\u00edndrome de salida tor\u00e1cica. \n\n**Es importante tener en cuenta que este informe est\u00e1 basado en la informaci\u00f3n disponible en la historia cl\u00ednica. Para obtener un diagn\u00f3stico preciso, se necesitan m\u00e1s detalles sobre la exploraci\u00f3n f\u00edsica del paciente, los resultados de las pruebas de imagen y la respuesta al tratamiento.**\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 774,
+        "total_token_count": 1593
+      }
+    }),
+)
+2024-11-06 22:54:05,070 - DEBUG - #Assistant output: Según el informe de la historia clínica, el paciente ya ha presentado dolor en el hombro izquierdo que se irradia hacia el codo y la muñeca, especialmente al andar y al flexionar el hombro con peso. Esto sugiere que el dolor después de hacer flexiones podría estar relacionado con la tendinitis del hombro izquierdo, que es el diagnóstico actual.
+2024-11-06 22:54:32,425 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte t\u00e9cnico m\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha de la consulta:** 11/04/2018\n\n**Motivo de consulta:** Dolor en el hombro izquierdo\n\n**Contexto:**\n\nEl Dr. [Nombre del doctor] busca informaci\u00f3n adicional sobre el paciente Antonio Paciente Demo, quien presenta dolor en el hombro izquierdo desde hace 9 meses. El dolor se irradia hacia el codo y la mu\u00f1eca, y aumenta con el movimiento, especialmente al flexionar el hombro con peso. El paciente refiere no tener dolor en reposo ni adormecimiento en los dedos. \n\n**An\u00e1lisis de la Historia Cl\u00ednica:**\n\n* **Anamnesis:** El paciente refiere un inicio del dolor gradual hace 9 meses, describiendo la evoluci\u00f3n como progresiva. El dolor es intenso en el hombro izquierdo, irradiando hacia el codo y la mu\u00f1eca. El movimiento del hombro, especialmente la flexi\u00f3n, genera dolor significativo. \n* **Exploraci\u00f3n:** Se observa dolor en el hombro izquierdo que se extiende al codo y la mu\u00f1eca. La movilidad se encuentra limitada por el dolor, especialmente en la flexi\u00f3n y abducci\u00f3n.  \n* **Diagn\u00f3stico:** El diagn\u00f3stico inicial fue \"Tendinitis hombro izquierdo\".\n* **Plan de tratamiento:** El tratamiento recomendado consisti\u00f3 en antiinflamatorios y reposo por dos semanas, as\u00ed como masaje. \n* **Pruebas de imagen:** Inicialmente no se consider\u00f3 necesaria, pero se valorar\u00e1 la posibilidad de realizar una resonancia magn\u00e9tica en dos semanas, en funci\u00f3n de la evoluci\u00f3n.\n* **Antecedentes:** El paciente tiene antecedentes de fractura de c\u00fabito y radio del brazo derecho, operada hace 10 a\u00f1os, y apendicitis operada hace 21 a\u00f1os.\n\n**Consideraciones adicionales:**\n\n* **Dermatoma:** La hipot\u00e9tica afectaci\u00f3n del dermatoma C5 sugiere una posible compresi\u00f3n nerviosa a ese nivel.\n* **Observaciones:** La historia cl\u00ednica menciona \"ARTICULAR\" y \"MUSCULO-TENDINOSO\", lo que podr\u00eda indicar una posible afectaci\u00f3n articular y/o m\u00fasculo-tendinosa.\n\n**Recomendaciones:**\n\n* **Realizar una exploraci\u00f3n f\u00edsica m\u00e1s detallada:** Evaluar con mayor profundidad la movilidad del hombro, la presencia de crepitaci\u00f3n, la fuerza muscular, y la sensibilidad de los dermatomas. \n* **Solicitar pruebas de imagen:** Realizar una resonancia magn\u00e9tica del hombro para determinar la causa del dolor, incluyendo la posibilidad de atrapamiento nervioso, tendinitis, rotura de manguito rotador, o artrosis.\n* **Evaluar la posibilidad de una consulta con un especialista en hombro:** Es crucial la consulta con un especialista en hombro para obtener una opini\u00f3n experta y un diagn\u00f3stico preciso. \n\n**Conclusi\u00f3n:**\n\nLa informaci\u00f3n disponible en la historia cl\u00ednica sugiere un posible problema en el hombro izquierdo, pero a\u00fan se requiere informaci\u00f3n adicional para un diagn\u00f3stico preciso. Es necesario realizar una exploraci\u00f3n f\u00edsica completa, pruebas de imagen y una consulta con un especialista en hombro.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 619,
+        "total_token_count": 1438
+      }
+    }),
+)
+2024-11-06 22:54:33,245 - DEBUG - #Assistant output: Según el informe de la historia clínica, el paciente tiene antecedentes de fractura de cúbito y radio del brazo derecho, operada hace 10 años, y apendicitis operada hace 21 años.
+2024-11-06 22:57:02,473 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha de la Historia Cl\u00ednica:** 11/04/2018\n\n**Motivo de Consulta:** Dolor en el hombro izquierdo\n\n**Contexto del Di\u00e1logo:**\n\nEl di\u00e1logo entre el asistente y el doctor no se ha proporcionado. Por favor, incluya el di\u00e1logo para poder brindar un reporte t\u00e9cnico preciso.\n\n**An\u00e1lisis de la Historia Cl\u00ednica:**\n\nLa historia cl\u00ednica de Antonio Paciente Demo describe un dolor de hombro izquierdo que se inici\u00f3 el 9/02/18 y ha persistido durante 4 a\u00f1os. El dolor se intensifica al caminar y al flexionar el hombro con peso, irradiando hacia el codo y la mu\u00f1eca. Tambi\u00e9n describe molestias al dormir de lado. \n\n**An\u00e1lisis de Diagn\u00f3sticos y Plan de Tratamiento:**\n\n* **Diagn\u00f3stico Inicial:** Tendinitis del hombro izquierdo.\n* **Plan de Tratamiento Inicial:** Antiinflamatorios y reposo durante 2 semanas, adem\u00e1s de masaje.\n\n**Observaciones:**\n\n* No se han realizado pruebas de imagen iniciales.\n* Se considera la posibilidad de realizar una resonancia magn\u00e9tica en dos semanas, en funci\u00f3n de la evoluci\u00f3n.\n* No se especifica la evoluci\u00f3n del paciente.\n\n**Puntos a Considerar:**\n\n* La historia cl\u00ednica menciona una duraci\u00f3n del dolor de 4 a\u00f1os, lo cual es incompatible con una tendinitis aguda. Es probable que se trate de una condici\u00f3n cr\u00f3nica, como una tendinosis o una lesi\u00f3n de los m\u00fasculos del manguito rotador.\n* No se han realizado pruebas de imagen para determinar la causa del dolor, lo que dificulta un diagn\u00f3stico preciso.\n* El plan de tratamiento inicial se centra en el manejo del dolor, pero no aborda la causa subyacente del dolor.\n* Es importante evaluar la historia cl\u00ednica del paciente de forma m\u00e1s completa para obtener m\u00e1s informaci\u00f3n relevante, como posibles antecedentes de lesiones, actividades laborales o deportivas que podr\u00edan haber contribuido al dolor.\n\n**Recomendaciones:**\n\n* Realizar una exploraci\u00f3n f\u00edsica completa para evaluar la movilidad, la fuerza muscular, la sensibilidad y los rangos de movimiento del hombro.\n* Solicitar pruebas de imagen, como una resonancia magn\u00e9tica, para confirmar la causa del dolor y evaluar la integridad de las estructuras del hombro.\n* Considerar otras posibilidades diagn\u00f3sticas, como la compresi\u00f3n del nervio, la inestabilidad del hombro o la artritis.\n* Adaptar el plan de tratamiento a la causa subyacente del dolor, incluyendo terapia f\u00edsica, medicamentos espec\u00edficos o intervenci\u00f3n quir\u00fargica si es necesario.\n* Realizar un seguimiento del paciente para evaluar la respuesta al tratamiento y ajustar el plan si es necesario.\n\n**Pregunta del M\u00e9dico:**\n\nPara poder responder a la pregunta del m\u00e9dico, por favor, proporcione el di\u00e1logo entre el asistente y el m\u00e9dico. \n\n**Nota:** \n\nEste reporte t\u00e9cnico es informativo y no debe interpretarse como un diagn\u00f3stico m\u00e9dico. Se recomienda la consulta con un especialista para obtener un diagn\u00f3stico preciso y un plan de tratamiento adecuado.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 623,
+        "total_token_count": 1442
+      }
+    }),
+)
+2024-11-06 22:57:03,483 - DEBUG - #Assistant output: Según el informe de la historia clínica, el dolor al hacer flexiones podría estar relacionado con la tendinitis del hombro izquierdo, aunque también se menciona la posibilidad de una condición crónica como tendinosis o lesión de los músculos del manguito rotador. Es importante realizar una exploración física y pruebas de imagen para determinar la causa subyacente del dolor.
+2024-11-06 22:57:29,736 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico\n\n**Paciente:** Antonio Paciente Demo\n\n**Fecha de Consulta:** 11/04/2018\n\n**Motivo de Consulta:** Dolor en el hombro izquierdo\n\n**Resumen del Caso:**\n\nAntonio Paciente Demo es un hombre de 41 a\u00f1os que acude a consulta por dolor en el hombro izquierdo. El dolor comenz\u00f3 el 9/02/18 y se describe como un dolor que se extiende al codo y mu\u00f1eca, intensific\u00e1ndose al andar y al flexionar el hombro con peso. El paciente refiere molestias al dormir de lado y no refiere adormecimiento de los dedos de la mano ni dolor en reposo.\n\n**Revisi\u00f3n de la Historia Cl\u00ednica:**\n\n* **Antecedentes Personales:** El paciente presenta una historia previa de fractura de c\u00fabito y radio de brazo derecho que fue estabilizada con placas hace 10 a\u00f1os y una apendicectom\u00eda hace 21 a\u00f1os.\n* **Exploraci\u00f3n F\u00edsica:** Se observa dolor en el hombro izquierdo que se extiende al codo y mu\u00f1eca. La movilidad del hombro est\u00e1 limitada por el dolor en la flexi\u00f3n y abducci\u00f3n. \n* **Diagn\u00f3stico:** Tendinitis hombro izquierdo.\n* **Tratamiento:** Se ha indicado antiinflamatorio y reposo durante 2 semanas, junto con masajes.\n\n**An\u00e1lisis del Caso:**\n\nLa sintomatolog\u00eda del paciente es compatible con una tendinitis del hombro izquierdo. La localizaci\u00f3n del dolor, la intensificaci\u00f3n con el movimiento y la limitaci\u00f3n de la movilidad apoyan esta hip\u00f3tesis. \n\n**Recomendaciones:**\n\n* **Control de evoluci\u00f3n:** Es importante realizar una nueva visita en 2 semanas para evaluar la evoluci\u00f3n del dolor y la respuesta al tratamiento. \n* **Estudio de Imagen:** En caso de que la sintomatolog\u00eda no mejore tras el tratamiento inicial, se deber\u00e1 considerar la realizaci\u00f3n de una resonancia magn\u00e9tica para descartar otras patolog\u00edas como una posible lesi\u00f3n del manguito rotador, desgarro de labrum o pinzamiento subacromial.\n\n**Conclusi\u00f3n:**\n\nEn base a la informaci\u00f3n disponible, el diagn\u00f3stico m\u00e1s probable es una tendinitis del hombro izquierdo. Se recomienda un seguimiento cl\u00ednico estricto y la realizaci\u00f3n de estudios de imagen si el dolor persiste.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0,
+          "safety_ratings": [
+            {
+              "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HATE_SPEECH",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_HARASSMENT",
+              "probability": "NEGLIGIBLE"
+            },
+            {
+              "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+              "probability": "NEGLIGIBLE"
+            }
+          ]
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 819,
+        "candidates_token_count": 464,
+        "total_token_count": 1283
+      }
+    }),
+)
+2024-11-06 22:57:30,552 - DEBUG - #Assistant output: Según el informe de la historia clínica, el paciente tiene antecedentes quirúrgicos de fractura de cúbito y radio de brazo derecho que fue estabilizada con placas hace 10 años, y una apendicectomía hace 21 años.

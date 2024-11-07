@@ -1,0 +1,7 @@
+2024-09-05 18:52:12,536 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Hello, ask me something.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cuantos son los signos del zodiaco?
+<|eot_id|>
+

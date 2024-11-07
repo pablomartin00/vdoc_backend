@@ -1,0 +1,56 @@
+2024-09-22 16:34:53,485 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal.
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for da -+
++------------+------+------------+----------------------+-------------------+
+| Date       | Time | Location   | Longitude            | Latitude          |
++------------+------+------------+----------------------+-------------------+
+| 10/10/1901 | 0:0  | London, GB | -0.09922027587890625 | 51.50274727034577 |
++------------+------+------------+----------------------+-------------------+
++-------------+------+-------+------+----------------+
+| Planet      | Sign | Pos.  | Ret. | House          |
++-------------+------+-------+------+----------------+
+| Sun         | Lib  | 15.95 | -    | Fourth_House   |
+| Moon        | Vir  | 17.06 | -    | Third_House    |
+| Mercury     | Sco  | 10.71 | -    | Fourth_House   |
+| Venus       | Sco  | 26.67 | -    | Fifth_House    |
+| Mars        | Sco  | 26.75 | -    | Fifth_House    |
+| Jupiter     | Cap  | 5.66  | -    | Sixth_House    |
+| Saturn      | Cap  | 10.31 | -    | Sixth_House    |
+| Uranus      | Sag  | 13.85 | -    | Fifth_House    |
+| Neptune     | Can  | 1.49  | R    | Twelfth_House  |
+| Pluto       | Gem  | 18.62 | R    | Eleventh_House |
+| Mean_Node   | Sco  | 14.9  | R    | Fourth_House   |
+| True_Node   | Sco  | 13.8  | R    | Fourth_House   |
+| Chiron      | Cap  | 0.43  | -    | Sixth_House    |
+| Mean_Lilith | Sco  | 16.46 | -    | Fifth_House    |
++-------------+------+-------+------+----------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Leo  | 0.41     |
+| Second_House   | Leo  | 16.73    |
+| Third_House    | Vir  | 7.32     |
+| Fourth_House   | Lib  | 5.74     |
+| Fifth_House    | Sco  | 14.94    |
+| Sixth_House    | Sag  | 27.5     |
+| Seventh_House  | Aqu  | 0.41     |
+| Eighth_House   | Aqu  | 16.73    |
+| Ninth_House    | Pis  | 7.32     |
+| Tenth_House    | Ari  | 5.74     |
+| Eleventh_House | Tau  | 14.94    |
+| Twelfth_House  | Gem  | 27.5     |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+consejo porfa
+<|eot_id|>
+
+2024-09-22 16:34:55,429 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'consejo', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': '¿Sobre qué tema necesitas consejo?', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-09-22 16:34:55,430 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'consejo', 'context_data': ''}/response_1 
+2024-09-22 16:34:55,431 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': '¿Sobre qué tema necesitas consejo?', 'context_data': ''}/response_2 
+2024-09-22 16:34:55,966 - DEBUG - #Assistant output: ¿Sobre qué tema necesitas consejo?

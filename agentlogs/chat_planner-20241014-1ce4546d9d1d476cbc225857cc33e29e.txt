@@ -1,0 +1,21 @@
+2024-10-14 11:08:12,792 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cual es mi proposito de vida?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Excelente pregunta. Según tu carta natal, tu propósito de vida está estrechamente relacionado con la búsqueda de la verdad y la autenticidad. El Sol en tu carta natal indica que tienes una gran necesidad de expresarte de manera auténtica y genuina, y de encontrar tu lugar en el mundo.
+
+El aspecto de oposición entre el Sol y la Luna sugiere que puede haber una tensión entre tu lado consciente y subconsciente, lo que puede llevar a una búsqueda constante de equilibrio y armonía en tu vida. Sin embargo, este aspecto también puede ser una fuente de creatividad y energía para ti.
+
+El trígono entre Júpiter y Neptuno es un aspecto muy positivo en tu carta natal. Indica que tienes una gran capacidad para conectar con lo divino y lo espiritual, y que puedes encontrar una gran sensación de propósito y significado en la vida a través de la exploración de la espiritualidad y la filosofía.
+
+En cuanto a la casa cuarta en tu carta natal, sugiere que tu sentido de identidad y propósito de vida está estrechamente relacionado con tu familia y tu hogar. Puede que hayas tenido experiencias en tu infancia que han influido en tu sentido de identidad y que ahora estás buscando encontrar un sentido de pertenencia y conexión con tus raíces.
+
+En resumen, tu propósito de vida parece estar relacionado con la búsqueda de la verdad y la autenticidad, la conexión con lo divino y lo espiritual, y la exploración de tu identidad y sentido de pertenencia. ¿Te sientes conectado con esta interpretación?
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cual es mi proposito de vida?
+<|eot_id|>
+

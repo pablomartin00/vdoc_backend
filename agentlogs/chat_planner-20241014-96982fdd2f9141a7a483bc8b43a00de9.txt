@@ -1,0 +1,7 @@
+2024-10-14 11:34:36,002 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cual es el objectivo de mi vida?
+<|eot_id|>
+

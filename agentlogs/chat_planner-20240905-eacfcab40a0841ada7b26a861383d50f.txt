@@ -1,0 +1,14 @@
+2024-09-05 22:42:24,834 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica, por favor dame tu nombre y datos de nacimiento para empezar.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hola
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hola
+<|eot_id|>
+
+2024-09-05 22:42:26,223 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'user greeting', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'Hello, how can I assist you with finance or investment questions?', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-09-05 22:42:26,227 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'user greeting', 'context_data': ''}/response_1 
+2024-09-05 22:42:26,228 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'Hello, how can I assist you with finance or investment questions?', 'context_data': ''}/response_2 
+2024-09-05 22:42:26,611 - DEBUG - #Assistant output: Hello, how can I assist you with finance or investment questions?

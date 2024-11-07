@@ -1,0 +1,53 @@
+Clínica CELN para Demos 
+Direccion Clinica Demo, 5, Bajo 
+Localidad Demo 
+Tel. 910000111 
+info@clinica-celn.com 
+Profesional: Profesional1 De La Demo
+Fecha documento: 11/04/2018
+Datos del paciente
+Nombre Antonio Paciente Demo (1)   NIF:
+Edad: 41 años
+  Sexo: Hombre
+MOTIVO DE CONSULTA
+ANAMNESIS:  
+9/02/18: Dolor en el hombro izquierdo con una evolución de hace 4 años. Mayor dolor en and que desciende hace el codo con periferalización. La ﬂexión de hombro con peso
+también tiene dolor. No dolor en la cama. Si duerme de lado se siente molesto. No se le quedan dormidos los dedos de la mano. No dolor en reposo. Con dolor en la zona del
+deltoides. No accidentes. 
+DIAGNÓSTICO POR IMAGEN:  
+Inicialmente no se considera necesario. En dos semanas, en función de la evolución, consideraremos la posibilidad de realizar resonancia magnética. 
+INFORMACION COMPLEMENTARIA
+INF.-
+Rotura de cúbito y radio brazo derecho, estabilizada con placas hace 10 años.
+Operación de apendicitis hace 21 años.
+EXPLORACION
+DOLOR
+MOVILIDAD
+PRUEBAS ORTOPÉDICAS
+OBSERVACIONES
+["ARTICULAR", "MUSCULO-TENDINOSO"]
+Limitada por dolor en la ﬂexion y en la abd
+BODYCHART
+DOLOR:  
+Hombro izquierdo que se extiende a codo y muñeca 
+ 
+-
+PRUEBAS DE SENSIBILIDAD:  
+Parte posterior del brazo izquierdo 
+ 
+-
+HIPOTESIS
+DERMATOMA: C5 
+-
+DIAGNÓSTICO
+DX:
+Tendinitis hombro izquierdo
+PLAN DE TRATAMIENTO
+Tto:
+Antiinﬂamatorio y reposo durante 2 semanas
+Masaje
+EVOLUCIÓN
+EVO.-
+OBSERVACIONES
+OB:
+Nueva visita en 2 semanas

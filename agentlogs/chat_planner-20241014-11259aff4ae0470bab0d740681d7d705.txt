@@ -1,0 +1,83 @@
+2024-10-14 11:27:41,722 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cual es el proposito de mi vida?
+<|eot_id|>
+
+2024-10-14 11:27:43,603 - DEBUG - #Chat planner choice: **Reporte de Carta Natal**
+
+El propósito de la vida del consultante se relaciona con los siguientes aspectos de su carta natal:
+
+* El Sol está en Acuario, en la posición 29.45 en la casa sexta. Esto sugiere que el propósito de la vida del consultante está relacionado con la búsqueda de la libertad y la independencia en su trabajo y en su vida diaria.
+* La Luna está en Aries, en la posición 5.78 en la casa séptima. Esto indica que el consultante tiene una gran necesidad de independencia y libertad en sus relaciones, lo que puede influir en su búsqueda de propósito.
+* El Nodo Verdadero está en Leo, en la posición 29.28 en la casa duodécima. Esto sugiere que el propósito de la vida del consultante está relacionado con la búsqueda de la creatividad y la autoexpresión, y que puede encontrar su propósito en actividades que le permitan brillar y ser reconocido.
+* La casa duodécima está en el signo de Leo, en la posición 2.8. Esto indica que el consultante puede encontrar su propósito en la búsqueda de la espiritualidad y la conexión con algo más grande que él mismo.
+
+En general, el propósito de la vida del consultante parece estar relacionado con la búsqueda de la libertad, la independencia y la autoexpresión, y puede encontrar su propósito en actividades que le permitan brillar y ser reconocido.
+2024-10-14 11:27:45,291 - DEBUG - #Assistant output: Una pregunta muy profunda y relevante. Según tu carta natal, tu propósito de vida parece estar relacionado con la búsqueda de la libertad, la independencia y la autoexpresión. Tu Sol en Acuario en la casa sexta sugiere que buscas encontrar un trabajo o una actividad que te permita sentirte libre y autónomo, y que te permita expresar tu individualidad de manera creativa.
+
+Además, tu Luna en Aries en la casa séptima indica que también buscas libertad y independencia en tus relaciones, lo que puede influir en tu búsqueda de propósito. Esto puede significar que necesitas encontrar un equilibrio entre tu necesidad de independencia y tu necesidad de conexión con los demás.
+
+Tu Nodo Verdadero en Leo en la casa duodécima sugiere que tu propósito de vida también está relacionado con la búsqueda de la creatividad y la autoexpresión. Puedes encontrar tu propósito en actividades que te permitan brillar y ser reconocido, y que te permitan expresar tu pasión y tu energía de manera auténtica.
+
+En general, parece que tu propósito de vida es encontrar una forma de expresarte de manera auténtica y creativa, y de encontrar la libertad y la independencia que necesitas para sentirte realizado y satisfecho.
+
+¿Te sientes identificado con esta descripción? ¿Hay algo en particular que te gustaría explorar o cambiar en tu vida para alcanzar tu propósito?
+2024-10-14 11:27:59,318 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+cual es el proposito de mi vida?
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Una pregunta muy profunda y relevante. Según tu carta natal, tu propósito de vida parece estar relacionado con la búsqueda de la libertad, la independencia y la autoexpresión. Tu Sol en Acuario en la casa sexta sugiere que buscas encontrar un trabajo o una actividad que te permita sentirte libre y autónomo, y que te permita expresar tu individualidad de manera creativa.
+
+Además, tu Luna en Aries en la casa séptima indica que también buscas libertad y independencia en tus relaciones, lo que puede influir en tu búsqueda de propósito. Esto puede significar que necesitas encontrar un equilibrio entre tu necesidad de independencia y tu necesidad de conexión con los demás.
+
+Tu Nodo Verdadero en Leo en la casa duodécima sugiere que tu propósito de vida también está relacionado con la búsqueda de la creatividad y la autoexpresión. Puedes encontrar tu propósito en actividades que te permitan brillar y ser reconocido, y que te permitan expresar tu pasión y tu energía de manera auténtica.
+
+En general, parece que tu propósito de vida es encontrar una forma de expresarte de manera auténtica y creativa, y de encontrar la libertad y la independencia que necesitas para sentirte realizado y satisfecho.
+
+¿Te sientes identificado con esta descripción? ¿Hay algo en particular que te gustaría explorar o cambiar en tu vida para alcanzar tu propósito?
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hazme un snippet de python que muestre este reporte en mayusculas
+<|eot_id|>
+
+2024-10-14 11:28:02,191 - DEBUG - #Chat planner choice: **REPORTE DE CARTA NATAL**
+
+EL SOL ESTÁ EN ACUARIO, EN LA POSICIÓN 29.45 EN LA CASA SEXTA. ESTO INFLUYE EN LA BÚSQUEDA DE LA LIBERTAD Y LA INDEPENDENCIA EN EL TRABAJO Y LA ACTIVIDAD DIARIA.
+
+LA LUNA ESTÁ EN ARIES, EN LA POSICIÓN 5.78 EN LA CASA SÉPTIMA. ESTO INFLUYE EN LA BÚSQUEDA DE LA LIBERTAD Y LA INDEPENDENCIA EN LAS RELACIONES.
+
+EL NODO VERDADERO ESTÁ EN LEO, EN LA POSICIÓN 29.28 EN LA CASA DUODÉCIMA. ESTO INFLUYE EN LA BÚSQUEDA DE LA CREATIVIDAD Y LA AUTOEXPRESIÓN EN LA VIDA.
+
+**CODIGO PYTHON PARA GENERAR EL REPORTE EN MAYÚSCULAS**
+
+```python
+reporte = """
+EL SOL ESTÁ EN ACUARIO, EN LA POSICIÓN 29.45 EN LA CASA SEXTA. ESTO INFLUYE EN LA BÚSQUEDA DE LA LIBERTAD Y LA INDEPENDENCIA EN EL TRABAJO Y LA ACTIVIDAD DIARIA.
+LA LUNA ESTÁ EN ARIES, EN LA POSICIÓN 5.78 EN LA CASA SÉPTIMA. ESTO INFLUYE EN LA BÚSQUEDA DE LA LIBERTAD Y LA INDEPENDENCIA EN LAS RELACIONES.
+EL NODO VERDADERO ESTÁ EN LEO, EN LA POSICIÓN 29.28 EN LA CASA DUODÉCIMA. ESTO INFLUYE EN LA BÚSQUEDA DE LA CREATIVIDAD Y LA AUTOEXPRESIÓN EN LA VIDA.
+"""
+
+print(reporte.upper())
+```
+
+Este código genera el reporte en mayúsculas y lo imprime en la consola.
+2024-10-14 11:28:04,658 - DEBUG - #Assistant output: ```python
+reporte = """
+SEGÚN TU CARTA NATAL, TU PROPÓSITO DE VIDA PARECE ESTAR RELACIONADO CON LA BÚSQUEDA DE LA LIBERTAD, LA INDEPENDENCIA Y LA AUTOEXPRESIÓN. TU SOL EN ACUARIO EN LA CASA SEXTA SUGIERE QUE BUSCAS ENCONTRAR UN TRABAJO O UNA ACTIVIDAD QUE TE PERMITA SENTIRTE LIBRE Y AUTÓNOMO, Y QUE TE PERMITA EXPRESAR TU INDIVIDUALIDAD DE MANERA CREATIVA.
+
+ADemás, TU LUNA EN ARIES EN LA CASA SÉPTIMA INDICA QUE TAMBIÉN BUSCAS LIBERTAD Y INDEPENDENCIA EN TUS RELACIONES, LO QUE PUEDE INFLUIR EN TU BÚSQUEDA DE PROPÓSITO. ESTO PUEDE SIGNIFICAR QUE NECESITAS ENCONTRAR UN EQUILIBRIO ENTRE TU NECESIDAD DE INDEPENDENCIA Y TU NECESIDAD DE CONEXIÓN CON LOS DEMÁS.
+
+TU NODO VERDADERO EN LEO EN LA CASA DUODÉCIMA SUGIERE QUE TU PROPÓSITO DE VIDA TAMBIÉN ESTÁ RELACIONADO CON LA BÚSQUEDA DE LA CREATIVIDAD Y LA AUTOEXPRESIÓN. PUEDES ENCONTRAR TU PROPÓSITO EN ACTIVIDADES QUE TE PERMITAN BRILLAR Y SER RECONOCIDO, Y QUE TE PERMITAN EXPRESAR TU PASIÓN Y TU ENERGÍA DE MANERA AUTÉNTICA.
+
+EN GENERAL, PARECE QUE TU PROPÓSITO DE VIDA ES ENCONTRAR UNA FORMA DE EXPRESARTE DE MANERA AUTÉNTICA Y CREATIVA, Y DE ENCONTRAR LA LIBERTAD Y LA INDEPENDENCIA QUE NECESITAS PARA SENTIRTE REALIZADO Y SATISFECHO.
+"""
+
+print(reporte.upper())
+```
+
+Este código genera el reporte en mayúsculas y lo imprime en la consola.

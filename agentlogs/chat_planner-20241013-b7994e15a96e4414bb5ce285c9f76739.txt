@@ -1,0 +1,118 @@
+2024-10-13 20:10:12,805 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal.
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for asdasd -+
++----------+------+------------+------------+------------+
+| Date     | Time | Location   | Longitude  | Latitude   |
++----------+------+------------+------------+------------+
+| 2/2/2022 | 0:0  | London, GB | -58.525342 | -34.632158 |
++----------+------+------------+------------+------------+
++-------------+------+-------+------+---------------+
+| Planet      | Sign | Pos.  | Ret. | House         |
++-------------+------+-------+------+---------------+
+| Sun         | Aqu  | 13.06 | -    | Sixth_House   |
+| Moon        | Aqu  | 22.79 | -    | Seventh_House |
+| Mercury     | Cap  | 24.7  | R    | Sixth_House   |
+| Venus       | Cap  | 11.33 | -    | Fifth_House   |
+| Mars        | Cap  | 6.13  | -    | Fifth_House   |
+| Jupiter     | Pis  | 7.43  | -    | Seventh_House |
+| Saturn      | Aqu  | 15.6  | -    | Seventh_House |
+| Uranus      | Tau  | 10.91 | -    | Ninth_House   |
+| Neptune     | Pis  | 21.46 | -    | Seventh_House |
+| Pluto       | Cap  | 26.98 | -    | Sixth_House   |
+| Mean_Node   | Tau  | 27.84 | R    | Ninth_House   |
+| True_Node   | Tau  | 28.6  | R    | Ninth_House   |
+| Chiron      | Ari  | 9.3   | -    | Eighth_House  |
+| Mean_Lilith | Gem  | 22.01 | -    | Tenth_House   |
++-------------+------+-------+------+---------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Leo  | 14.3     |
+| Second_House   | Vir  | 28.1     |
+| Third_House    | Sco  | 3.85     |
+| Fourth_House   | Sag  | 0.75     |
+| Fifth_House    | Sag  | 23.43    |
+| Sixth_House    | Cap  | 16.17    |
+| Seventh_House  | Aqu  | 14.3     |
+| Eighth_House   | Pis  | 28.1     |
+| Ninth_House    | Tau  | 3.85     |
+| Tenth_House    | Gem  | 0.75     |
+| Eleventh_House | Gem  | 23.43    |
+| Twelfth_House  | Can  | 16.17    |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hola
+<|eot_id|>
+
+2024-10-13 20:10:14,668 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'hola', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'hola', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-10-13 20:10:14,669 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'hola', 'context_data': ''}/response_1 
+2024-10-13 20:10:14,669 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'hola', 'context_data': ''}/response_2 
+2024-10-13 20:10:15,213 - DEBUG - #Assistant output: Hola
+2024-10-13 20:10:21,178 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal.
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
++- Kerykeion report for asdasd -+
++----------+------+------------+------------+------------+
+| Date     | Time | Location   | Longitude  | Latitude   |
++----------+------+------------+------------+------------+
+| 2/2/2022 | 0:0  | London, GB | -58.525342 | -34.632158 |
++----------+------+------------+------------+------------+
++-------------+------+-------+------+---------------+
+| Planet      | Sign | Pos.  | Ret. | House         |
++-------------+------+-------+------+---------------+
+| Sun         | Aqu  | 13.06 | -    | Sixth_House   |
+| Moon        | Aqu  | 22.79 | -    | Seventh_House |
+| Mercury     | Cap  | 24.7  | R    | Sixth_House   |
+| Venus       | Cap  | 11.33 | -    | Fifth_House   |
+| Mars        | Cap  | 6.13  | -    | Fifth_House   |
+| Jupiter     | Pis  | 7.43  | -    | Seventh_House |
+| Saturn      | Aqu  | 15.6  | -    | Seventh_House |
+| Uranus      | Tau  | 10.91 | -    | Ninth_House   |
+| Neptune     | Pis  | 21.46 | -    | Seventh_House |
+| Pluto       | Cap  | 26.98 | -    | Sixth_House   |
+| Mean_Node   | Tau  | 27.84 | R    | Ninth_House   |
+| True_Node   | Tau  | 28.6  | R    | Ninth_House   |
+| Chiron      | Ari  | 9.3   | -    | Eighth_House  |
+| Mean_Lilith | Gem  | 22.01 | -    | Tenth_House   |
++-------------+------+-------+------+---------------+
++----------------+------+----------+
+| House          | Sign | Position |
++----------------+------+----------+
+| First_House    | Leo  | 14.3     |
+| Second_House   | Vir  | 28.1     |
+| Third_House    | Sco  | 3.85     |
+| Fourth_House   | Sag  | 0.75     |
+| Fifth_House    | Sag  | 23.43    |
+| Sixth_House    | Cap  | 16.17    |
+| Seventh_House  | Aqu  | 14.3     |
+| Eighth_House   | Pis  | 28.1     |
+| Ninth_House    | Tau  | 3.85     |
+| Tenth_House    | Gem  | 0.75     |
+| Eleventh_House | Gem  | 23.43    |
+| Twelfth_House  | Can  | 16.17    |
++----------------+------+----------+
+#24
+
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+hola
+<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+Hola
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+un consejo para el dia
+<|eot_id|>
+
+2024-10-13 20:10:22,840 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'un consejo para el dia', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'un consejo para el dia', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-10-13 20:10:22,841 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'un consejo para el dia', 'context_data': ''}/response_1 
+2024-10-13 20:10:22,842 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'un consejo para el dia', 'context_data': ''}/response_2 
+2024-10-13 20:10:23,810 - DEBUG - #Assistant output: Un consejo para el día: "Aprovecha cada oportunidad que se te presente, ya que no sabes cuándo volverá a pasar. Sé valiente y no tengas miedo de tomar riesgos calculados. La vida es un viaje lleno de sorpresas, así que mantén una actitud positiva y abierta a nuevas experiencias."

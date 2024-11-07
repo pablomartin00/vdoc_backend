@@ -1,0 +1,11 @@
+2024-10-13 21:37:36,874 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+dime algo sobre mi futuro
+<|eot_id|>
+
+2024-10-13 21:37:38,352 - DEBUG - #Chat planner choice: [{'step': 1, 'action': 'define_global_query', 'parameters': {'query': 'información sobre el futuro del usuario', 'context_data': ''}, 'save_as': 'response_1'}, {'step': 2, 'action': 'quick_answer', 'parameters': {'query': 'No tengo información suficiente para responder a esta pregunta. ¿Podrías proporcionar más detalles sobre lo que te gustaría saber sobre tu futuro?', 'context_data': ''}, 'save_as': 'response_2'}]
+2024-10-13 21:37:38,354 - DEBUG - #Execute plan, action, parameters, save_as: define_global_query/{'query': 'información sobre el futuro del usuario', 'context_data': ''}/response_1 
+2024-10-13 21:37:38,354 - DEBUG - #Execute plan, action, parameters, save_as: quick_answer/{'query': 'No tengo información suficiente para responder a esta pregunta. ¿Podrías proporcionar más detalles sobre lo que te gustaría saber sobre tu futuro?', 'context_data': ''}/response_2 
+2024-10-13 21:37:38,839 - DEBUG - #Assistant output: Lo siento, no tengo información suficiente para responder a esta pregunta. ¿Podrías proporcionar más detalles sobre lo que te gustaría saber sobre tu futuro?

@@ -1,0 +1,31 @@
+2024-10-14 17:33:20,038 - DEBUG - #Chat planner messages: <|start_header_id|>assistant<|end_header_id|>
+Bienvenido a tu consulta astrológica. He analizado tu carta natal. Puedes comenzar a hacer tus preguntas.
+<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+consejo para mi mision de vida
+<|eot_id|>
+
+2024-10-14 17:33:22,207 - DEBUG - #Chat planner choice: **Reporte de Carta Natal**
+
+El Sol está en Acuario, en la posición 28.44 en la casa sexta. Esto sugiere que la misión de vida del consultante está relacionada con la búsqueda de la libertad y la independencia en su trabajo y rutina diaria.
+
+La Luna está en Piscis, en la posición 20.78 en la casa séptima. Esto indica que la misión de vida del consultante también está relacionada con la búsqueda de la armonía y la comprensión en sus relaciones interpersonales.
+
+Marte está en Virgo, en la posición 8.62 en la casa primera, y se encuentra en retrogradación. Esto sugiere que el consultante puede tener una tendencia a ser crítico consigo mismo y con los demás, lo que puede afectar su capacidad para alcanzar su misión de vida.
+
+Júpiter está en Virgo, en la posición 6.18 en la casa primera, y se encuentra en retrogradación. Esto indica que el consultante puede tener una tendencia a ser demasiado perfeccionista y crítico, lo que puede afectar su capacidad para crecer y expandirse en su misión de vida.
+
+El Nodo Medio está en Leo, en la posición 29.36 en la casa duodécima, y se encuentra en retrogradación. Esto sugiere que la misión de vida del consultante está relacionada con la búsqueda de la creatividad y la autoexpresión en un entorno espiritual o introspectivo.
+
+El Nodo Verdadero está en Leo, en la posición 29.28 en la casa duodécima. Esto indica que la misión de vida del consultante está relacionada con la búsqueda de la confianza y la fe en sí mismo y en su capacidad para crear y expresarse de manera auténtica.
+2024-10-14 17:33:24,052 - DEBUG - #Assistant output: Excelente elección. Según tu carta natal, tu misión de vida está relacionada con la búsqueda de la libertad y la independencia en tu trabajo y rutina diaria, así como la búsqueda de la armonía y la comprensión en tus relaciones interpersonales.
+
+Mi consejo para ti es que te permitas explorar y experimentar diferentes caminos en tu vida laboral y personal. No tengas miedo de tomar riesgos y probar nuevas cosas, ya que esto te ayudará a encontrar tu verdadera pasión y propósito.
+
+Sin embargo, también es importante que te des cuenta de que tu tendencia a ser crítico contigo mismo y con los demás puede ser un obstáculo en tu camino. Trata de ser más compasivo y tolerante contigo mismo y con los demás, y recuerda que la perfección no es un objetivo realista.
+
+Además, tu Nodo Medio en Leo en la casa duodécima sugiere que tienes un gran potencial creativo y artístico que puede ser una fuente de inspiración y motivación para ti. No te olvides de nutrir esta parte de ti mismo y de encontrar formas de expresarte de manera auténtica.
+
+Recuerda que tu misión de vida es un proceso de crecimiento y evolución, y que no hay un camino "correcto" o "incorrecto". Lo importante es que sigas tu corazón y te permitas ser guiado por tu intuición y tu pasión.
+
+¿Te gustaría saber más sobre cómo puedes aplicar estos consejos en tu vida diaria?
