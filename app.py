@@ -56,6 +56,8 @@ def verify():
     global genai
     global myfile
     print("#1")
+    HISTORIAS_DIR = "./historias"
+
     data = request.get_json()
     user = data.get('user')
     question = data.get('question')
@@ -64,10 +66,23 @@ def verify():
     legajo = data.get('legajo')  # Obtener el legajo médico seleccionado
     
     print(f"#####Legajo recibido: {legajo}")
+
+    # Ruta completa al archivo de la historia
+    historia_path = os.path.join(HISTORIAS_DIR, f"{legajo}")
+
+    # Verifica si el archivo existe
+    if not os.path.isfile(historia_path):
+        print("Error: Archivo no encontrado para el legajo:", legajo)
+        return jsonify({"error": f"Archivo no encontrado para el legajo {legajo}"}), 404
+
+    # Lee el contenido del archivo
+    with open(historia_path, 'r', encoding='utf-8') as file:
+        historia_content = file.read()
+
     # Aquí puedes procesar el historial de mensajes como necesites
     #print(f"Historial de mensajes: {history}")
     print(f"#99 user question: {question}")
-    expert_answer = chat_expert.ask_question({"messages": history,"legajo": legajo,"query":question},genai,myfile)
+    expert_answer = chat_expert.ask_question({"messages": history,"legajo": legajo,"query":question,"historial": historia_content},genai,myfile)
         
     #####
     #response = model.generate_content([myfile,"\n\n" ,"dada la historia clinica del paciente y tus conocimientos medicos,"])
@@ -112,7 +127,8 @@ def loaddocument():
         # Cargar el contenido en la caché de Google Gemini
         cache_key = f"./historias/{legajo}"
         print("#77 ", str(cache_key))
-        myfile = genai.upload_file(cache_key)
+        #myfile = genai.upload_file(cache_key)
+        myfile = None
 
         
         print("Contenido de la historia cacheado en Google Gemini con clave:", cache_key)

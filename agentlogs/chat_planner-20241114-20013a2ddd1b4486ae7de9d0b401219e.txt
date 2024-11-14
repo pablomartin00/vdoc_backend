@@ -1,0 +1,105 @@
+2024-11-14 14:44:35,108 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha de la consulta:** 11/04/2018
+**Motivo de la consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la historia clínica:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. El dolor se describe como mayor al andar, que desciende hacia el codo con periferalización, y también se presenta al flexionar el hombro con peso. No hay dolor en la cama, pero sí molestias al dormir de lado. No se reporta adormecimiento de los dedos de la mano ni dolor en reposo. El dolor se localiza en la zona del deltoides.
+
+**Evolución de los síntomas:**
+
+La evolución de los síntomas ha sido de 4 años, con un inicio del dolor en el 9 de febrero de 2018. No se reportan cambios significativos en la intensidad o la localización del dolor en este período.
+
+**Diagnóstico actual:**
+
+El diagnóstico actual es de tendinitis del hombro izquierdo, basado en la exploración física y la historia clínica del paciente.
+
+**Respuesta a la pregunta del doctor:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. La evolución de los síntomas ha sido estable, con un dolor persistente en la zona del deltoides y molestias al dormir de lado.
+
+**Recomendaciones:**
+
+Se recomienda seguir con el tratamiento actual, que incluye antiinflamatorio y reposo durante 2 semanas, y masaje. También se sugiere realizar una resonancia magnética en dos semanas para evaluar la evolución del paciente y ajustar el tratamiento según sea necesario.
+2024-11-14 14:44:36,010 - DEBUG - #Assistant output: El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. La evolución de los síntomas ha sido estable, con un dolor persistente en la zona del deltoides y molestias al dormir de lado.
+2024-11-14 14:44:45,509 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha:** 11/04/2018
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Antecedentes Traumáticos, Intervenciones Previas o Factores que Pueden Predisponer al Paciente a esta Condición:**
+
+Según la historia clínica del paciente, no hay antecedentes traumáticos recientes que puedan estar relacionados con el dolor en el hombro izquierdo. Sin embargo, se menciona que el paciente sufrió una rotura de cúbito y radio en el brazo derecho hace 10 años, que fue estabilizada con placas. También se menciona una operación de apendicitis hace 21 años.
+
+**Factores que Pueden Predisponer al Paciente a esta Condición:**
+
+* La rotura de cúbito y radio en el brazo derecho puede haber causado una alteración en la biomecánica del hombro izquierdo, lo que podría predisponer al paciente a desarrollar tendinitis o otros problemas musculoesqueléticos en la zona.
+* La operación de apendicitis no parece estar directamente relacionada con el dolor en el hombro izquierdo, pero es importante considerar cualquier posible efecto secundario o complicación que pueda haber surgido como resultado de la cirugía.
+
+**Conclusión:**
+
+En base a la historia clínica del paciente, no hay antecedentes traumáticos recientes que puedan estar relacionados con el dolor en el hombro izquierdo. Sin embargo, la rotura de cúbito y radio en el brazo derecho puede haber causado una alteración en la biomecánica del hombro izquierdo, lo que podría predisponer al paciente a desarrollar tendinitis o otros problemas musculoesqueléticos en la zona. Es importante considerar estos factores al diagnosticar y tratar el dolor en el hombro izquierdo del paciente.
+2024-11-14 14:44:46,478 - DEBUG - #Assistant output: Según la historia clínica, el paciente sufrió una rotura de cúbito y radio en el brazo derecho hace 10 años, que fue estabilizada con placas. Esto puede haber causado una alteración en la biomecánica del hombro izquierdo, predisponiendo al paciente a desarrollar tendinitis o otros problemas musculoesqueléticos en la zona.
+2024-11-14 14:44:57,300 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha:** 11/04/2018
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la Historia Clínica:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. El dolor se describe como persistente en la zona del deltoides y se extiende hacia el codo y la muñeca. El paciente también menciona molestias al dormir de lado. No hay antecedentes de accidentes, pero sí una rotura de cúbito y radio en el brazo derecho estabilizada con placas hace 10 años.
+
+**Pruebas Realizadas:**
+
+No se han realizado pruebas de imagen inicialmente, pero se considerará la posibilidad de realizar una resonancia magnética en dos semanas en función de la evolución del paciente.
+
+**Exploración Física:**
+
+La exploración física revela dolor en el hombro izquierdo que se extiende a codo y muñeca, con limitación en la flexión y abducción. No se especifican pruebas ortopédicas.
+
+**Diagnóstico:**
+
+El diagnóstico inicial es tendinitis del hombro izquierdo.
+
+**Plan de Tratamiento:**
+
+El plan de tratamiento incluye antiinflamatorio y reposo durante 2 semanas, seguido de masaje.
+
+**Evolución:**
+
+No se especifica la evolución del paciente.
+
+**Respuesta a la Pregunta del Doctor:**
+
+En respuesta a la pregunta del doctor, no se han realizado pruebas de imagen específicas para evaluar el dolor en el hombro y los síntomas asociados. Sin embargo, se considerará la posibilidad de realizar una resonancia magnética en dos semanas en función de la evolución del paciente. La exploración física y la anamnesis han sido fundamentales para establecer el diagnóstico inicial de tendinitis del hombro izquierdo.
+2024-11-14 14:44:58,297 - DEBUG - #Assistant output: No se han realizado pruebas de imagen específicas para evaluar el dolor en el hombro y los síntomas asociados. Sin embargo, se considerará la posibilidad de realizar una resonancia magnética en dos semanas en función de la evolución del paciente. La exploración física y la anamnesis han sido fundamentales para establecer el diagnóstico inicial de tendinitis del hombro izquierdo.
+2024-11-14 14:45:18,096 - DEBUG - #Chat planner choice: **Informe Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha de la consulta:** 11/04/2018
+**Motivo de la consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la historia clínica:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. El dolor se describe como persistente en la zona del deltoides y se extiende hacia el codo con periferalización. El paciente también menciona molestias al dormir de lado. La exploración física revela una limitación en la movilidad del hombro izquierdo debido al dolor.
+
+**Diagnóstico inicial:**
+
+Se ha establecido un diagnóstico inicial de tendinitis del hombro izquierdo.
+
+**Plan de tratamiento:**
+
+El plan de tratamiento incluye el uso de antiinflamatorios y reposo durante 2 semanas, así como masaje.
+
+**Próxima revisión de seguimiento:**
+
+La próxima revisión de seguimiento está programada para dentro de 2 semanas, con el fin de evaluar la respuesta al tratamiento y considerar la posibilidad de realizar una resonancia magnética si es necesario.
+
+**Conclusión:**
+
+En base a la historia clínica y el plan de tratamiento establecido, se recomienda que el paciente regrese para una revisión de seguimiento dentro de 2 semanas para evaluar la respuesta al tratamiento y ajustar el plan de tratamiento según sea necesario.
+2024-11-14 14:45:31,338 - DEBUG - #Assistant output: La próxima revisión de seguimiento está programada para dentro de 2 semanas, con el fin de evaluar la respuesta al tratamiento y considerar la posibilidad de realizar una resonancia magnética si es necesario.
