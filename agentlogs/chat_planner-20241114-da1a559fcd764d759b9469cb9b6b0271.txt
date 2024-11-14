@@ -1,0 +1,98 @@
+2024-11-14 15:03:53,361 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha de la consulta:** 11/04/2018
+**Motivo de la consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la historia clínica:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. El dolor se describe como mayor al andar, que desciende hacia el codo con periferalización, y también se presenta al flexionar el hombro con peso. No hay dolor en la cama, pero sí molestias al dormir de lado. No se reporta adormecimiento de los dedos de la mano ni dolor en reposo. El dolor se localiza en la zona del deltoides.
+
+**Evolución de los síntomas:**
+
+La evolución de los síntomas ha sido de 4 años, con un inicio del dolor en el 9 de febrero de 2018. No se reportan cambios significativos en la intensidad o la localización del dolor en este período.
+
+**Diagnóstico actual:**
+
+El diagnóstico actual es de tendinitis del hombro izquierdo, basado en la exploración física y la historia clínica del paciente.
+
+**Respuesta a la pregunta del doctor:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. La evolución de los síntomas ha sido estable, con un dolor persistente en la zona del deltoides y molestias al dormir de lado.
+
+**Recomendaciones:**
+
+Se recomienda seguir con el tratamiento actual, que incluye antiinflamatorio y reposo durante 2 semanas, y masaje. También se sugiere realizar una resonancia magnética en dos semanas para evaluar la evolución del paciente y ajustar el tratamiento según sea necesario.
+2024-11-14 15:03:54,318 - DEBUG - #Assistant output: El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. La evolución de los síntomas ha sido estable, con un dolor persistente en la zona del deltoides y molestias al dormir de lado.
+2024-11-14 15:04:04,425 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha:** 11/04/2018
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Antecedentes Traumáticos, Intervenciones Previas o Factores que Pueden Predisponer al Paciente a esta Condición:**
+
+Según la historia clínica del paciente, no hay antecedentes traumáticos recientes que puedan estar relacionados con el dolor en el hombro izquierdo. Sin embargo, se menciona que el paciente sufrió una rotura de cúbito y radio en el brazo derecho hace 10 años, que fue estabilizada con placas. También se menciona una operación de apendicitis hace 21 años.
+
+**Factores que Pueden Predisponer al Paciente a esta Condición:**
+
+* La rotura de cúbito y radio en el brazo derecho puede haber causado una alteración en la biomecánica del hombro izquierdo, lo que podría predisponer al paciente a desarrollar tendinitis o otros problemas musculoesqueléticos en la zona.
+* La operación de apendicitis no parece estar directamente relacionada con el dolor en el hombro izquierdo, pero es importante considerar cualquier posible efecto secundario o complicación que pueda haber surgido como resultado de la cirugía.
+
+**Conclusión:**
+
+En base a la historia clínica del paciente, no hay antecedentes traumáticos recientes que puedan estar relacionados con el dolor en el hombro izquierdo. Sin embargo, la rotura de cúbito y radio en el brazo derecho puede haber causado una alteración en la biomecánica del hombro izquierdo, lo que podría predisponer al paciente a desarrollar tendinitis o otros problemas musculoesqueléticos en la zona. Es importante considerar estos factores al diagnosticar y tratar el dolor en el hombro izquierdo del paciente.
+2024-11-14 15:04:05,396 - DEBUG - #Assistant output: Según la historia clínica, el paciente sufrió una rotura de cúbito y radio en el brazo derecho hace 10 años, que fue estabilizada con placas. Esto puede haber causado una alteración en la biomecánica del hombro izquierdo, predisponiendo al paciente a desarrollar tendinitis o otros problemas musculoesqueléticos en la zona.
+2024-11-14 15:04:17,355 - DEBUG - #Chat planner choice: **Informe Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha de la consulta:** 11/04/2018
+**Motivo de la consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la historia clínica:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. El dolor se describe como persistente en la zona del deltoides y se extiende hacia el codo y la muñeca. El paciente también menciona molestias al dormir de lado. La exploración revela una limitación en la movilidad del hombro izquierdo debido al dolor.
+
+**Antecedentes relevantes:**
+
+* Rotura de cúbito y radio en el brazo derecho, estabilizada con placas hace 10 años.
+* Operación de apendicitis hace 21 años.
+
+**Diagnóstico y tratamiento:**
+
+El diagnóstico inicial es de tendinitis en el hombro izquierdo. El plan de tratamiento incluye antiinflamatorio y reposo durante 2 semanas, seguido de masaje.
+
+**Próxima revisión de seguimiento:**
+
+La próxima revisión de seguimiento está programada en 2 semanas, es decir, el 25 de abril de 2018. En esta visita, se evaluará la respuesta del paciente al tratamiento y se ajustará el plan de tratamiento según sea necesario.
+
+**Conclusión:**
+
+En base a la historia clínica y el plan de tratamiento, se recomienda que el paciente regrese en 2 semanas para una revisión de seguimiento. En esta visita, se evaluará la respuesta del paciente al tratamiento y se ajustará el plan de tratamiento según sea necesario.
+2024-11-14 15:04:18,135 - DEBUG - #Assistant output: La próxima revisión de seguimiento está programada para el 25 de abril de 2018, en 2 semanas desde la fecha de la consulta, para evaluar la respuesta del paciente al tratamiento y ajustar el plan de tratamiento según sea necesario.
+2024-11-14 15:04:33,857 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha:** 11/04/2018
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la Historia Clínica:**
+
+El paciente presenta dolor en el hombro izquierdo desde el 9 de febrero de 2018, con una evolución de 4 años. El dolor se describe como persistente en la zona del deltoides y se extiende hacia el codo y la muñeca. El paciente también menciona molestias al dormir de lado. No hay antecedentes de accidentes, pero sí una rotura de cúbito y radio en el brazo derecho hace 10 años.
+
+**Exploración y Diagnóstico:**
+
+La exploración revela dolor en el hombro izquierdo que se extiende a codo y muñeca, con limitación en la flexión y abducción. Las pruebas de sensibilidad muestran dolor en la parte posterior del brazo izquierdo. El diagnóstico inicial es tendinitis del hombro izquierdo.
+
+**Respuesta a la Pregunta del Doctor:**
+
+En cuanto a la pregunta del doctor sobre la presencia de síntomas neurológicos asociados, como adormecimiento o pérdida de sensibilidad en la extremidad afectada, la historia clínica del paciente no menciona adormecimiento de los dedos de la mano. Sin embargo, sí se menciona dolor en la parte posterior del brazo izquierdo. No hay evidencia de pérdida de sensibilidad en la extremidad afectada.
+
+**Recomendaciones:**
+
+Se recomienda seguir con el plan de tratamiento actual, que incluye antiinflamatorio y reposo durante 2 semanas, y masaje. Es importante realizar un seguimiento en 2 semanas para evaluar la respuesta del paciente al tratamiento y ajustar el plan de tratamiento según sea necesario.
+
+**Conclusión:**
+
+En base a la historia clínica del paciente y la exploración realizada, no hay evidencia de síntomas neurológicos asociados, como adormecimiento o pérdida de sensibilidad en la extremidad afectada. Se recomienda seguir con el plan de tratamiento actual y realizar un seguimiento en 2 semanas para evaluar la respuesta del paciente al tratamiento.
+2024-11-14 15:04:50,224 - DEBUG - #Assistant output: No, según la historia clínica, no hay evidencia de síntomas neurológicos asociados, como adormecimiento o pérdida de sensibilidad en la extremidad afectada. Sin embargo, el paciente sí presenta dolor en la parte posterior del brazo izquierdo.
