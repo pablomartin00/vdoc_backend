@@ -1,0 +1,54 @@
+2024-11-14 14:12:44,975 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico: Antonio Paciente Demo\n\n**Fecha del reporte:** 2023-10-27\n\n**En relaci\u00f3n a la consulta:**  \"\u00bfDesde cu\u00e1ndo presenta el paciente dolor en el hombro izquierdo, y cu\u00e1l ha sido la evoluci\u00f3n de los s\u00edntomas?\"\n\n**Resumen de la informaci\u00f3n relevante de la Historia Cl\u00ednica:**\n\nEl paciente Antonio Paciente Demo, hombre de 41 a\u00f1os, presenta dolor en el hombro izquierdo como motivo de consulta.  La historia cl\u00ednica detalla lo siguiente:\n\n* **Inicio del dolor:** 09/02/2018.  Es importante destacar que aunque la fecha de la historia cl\u00ednica es 11/04/2018, el inicio del dolor se reporta como 9/02/18. Esto indica una evoluci\u00f3n cr\u00f3nica del dolor, con una duraci\u00f3n de al menos dos meses al momento de la consulta.\n\n* **Evoluci\u00f3n:** El paciente refiere una evoluci\u00f3n del dolor de 4 a\u00f1os de duraci\u00f3n. Esto sugiere una condici\u00f3n cr\u00f3nica, potencialmente degenerativa o relacionada con sobrecarga. La informaci\u00f3n de los \u00faltimos dos meses es m\u00e1s relevante para el diagn\u00f3stico actual y no se especifica en la anamnesis.  La descripci\u00f3n del dolor se centra en el periodo de tiempo previo a la consulta (9/02/18 al 11/04/18).\n\n* **Descripci\u00f3n de la evoluci\u00f3n del dolor (en el periodo de los dos meses previos a la consulta):**  El dolor ha aumentado al andar, irradi\u00e1ndose al codo y mu\u00f1eca.  Hay dolor al flexionar el hombro con peso, pero no en reposo ni al dormir boca arriba.  Experimenta molestias al dormir de lado.  No presenta adormecimiento de los dedos ni dolor en reposo. Se localiza el dolor en la zona del deltoides.\n\n**An\u00e1lisis:**\n\nLa informaci\u00f3n proporcionada presenta una inconsistencia temporal:  se indica una evoluci\u00f3n de 4 a\u00f1os, pero la descripci\u00f3n del dolor se centra en los dos meses previos a la consulta. Se necesita aclarar esta discrepancia para comprender completamente la evoluci\u00f3n del cuadro cl\u00ednico.  La evoluci\u00f3n reciente (dos meses previos a la consulta) muestra un empeoramiento del dolor, especialmente al realizar movimientos funcionales como caminar y levantar peso.\n\nLa ausencia de dolor en reposo, la irradiaci\u00f3n al codo y mu\u00f1eca, y la localizaci\u00f3n en el deltoides, junto con la limitaci\u00f3n de la movilidad en flexi\u00f3n y abducci\u00f3n,  orientan hacia una patolog\u00eda m\u00fasculo-esquel\u00e9tica del hombro,  consistente con el diagn\u00f3stico provisional de tendinitis. Sin embargo,  la duraci\u00f3n de 4 a\u00f1os sugiere la posibilidad de una patolog\u00eda subyacente m\u00e1s compleja que una simple tendinitis aguda.\n\n\n**Recomendaciones:**\n\n* **Clarificar la discrepancia temporal:** Es fundamental precisar la evoluci\u00f3n del dolor en los 4 a\u00f1os previos a la consulta.  \u00bfHubo periodos de remisi\u00f3n? \u00bfCu\u00e1l era la intensidad inicial del dolor?  \u00bfSe han realizado tratamientos previos?  Esta informaci\u00f3n es crucial para determinar la causa del dolor y descartar condiciones cr\u00f3nicas como la artrosis, s\u00edndrome de pinzamiento, o lesiones de manguito rotador.\n\n* **Completar la exploraci\u00f3n f\u00edsica:** La historia cl\u00ednica no detalla las pruebas ortop\u00e9dicas realizadas.  Es esencial una exploraci\u00f3n f\u00edsica completa del hombro, incluyendo pruebas espec\u00edficas para evaluar la integridad del manguito rotador, la articulaci\u00f3n acromioclavicular y la articulaci\u00f3n glenohumeral.\n\n* **Considerar estudios de imagen:** Aunque se planea una resonancia magn\u00e9tica en dos semanas,  se podr\u00eda considerar acelerar este proceso dado el tiempo de evoluci\u00f3n y la posibilidad de patolog\u00edas subyacentes m\u00e1s complejas.\n\n* **Considerar Diagn\u00f3sticos diferenciales:**  Adem\u00e1s de la tendinitis, se deben considerar diagn\u00f3sticos diferenciales como:  s\u00edndrome de pinzamiento subacromial, rotura parcial o completa del manguito rotador, artrosis glenohumeral, capsulitis adhesiva,  y neuropat\u00eda.\n\n\n\nEn resumen, se necesita m\u00e1s informaci\u00f3n para una evaluaci\u00f3n completa de la evoluci\u00f3n del dolor y llegar a un diagn\u00f3stico definitivo. La informaci\u00f3n disponible indica un proceso doloroso del hombro izquierdo que ha empeorado en los dos meses previos a la consulta, pero la historia de 4 a\u00f1os requiere mayor aclaraci\u00f3n.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "avg_logprobs": -0.4118272660169314
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 896,
+        "candidates_token_count": 897,
+        "total_token_count": 1793
+      }
+    }),
+)
+2024-11-14 14:12:46,376 - DEBUG - #Assistant output: Según el informe, el paciente presenta dolor en el hombro izquierdo desde el 09/02/2018, con una evolución crónica del dolor de al menos 4 años. En los dos meses previos a la consulta, el dolor ha aumentado al andar, irradiándose al codo y muñeca, y se localiza en la zona del deltoides.
+2024-11-14 14:13:51,334 - DEBUG - #Chat planner choice: response:
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "text": "## Reporte T\u00e9cnico M\u00e9dico: Antecedentes del Paciente Antonio Paciente Demo\n\n**En relaci\u00f3n a la pregunta del doctor sobre antecedentes traum\u00e1ticos, intervenciones previas o factores predisponentes a la tendinitis del hombro izquierdo del paciente Antonio Paciente Demo:**\n\nLa historia cl\u00ednica revela dos intervenciones quir\u00fargicas previas significativas, pero ninguna directamente relacionada con el hombro izquierdo:\n\n* **Rotura de c\u00fabito y radio del brazo derecho, estabilizada con placas hace 10 a\u00f1os:** Este evento traum\u00e1tico, aunque en el brazo contralateral, podr\u00eda indirectamente influir en la postura y biomec\u00e1nica del paciente, generando sobrecarga en el hombro izquierdo a largo plazo.  Es importante considerar este factor como un posible elemento contribuyente a la tendinitis, aunque no es una causa directa. Se recomienda explorar si el paciente desarroll\u00f3 compensaciones posturales tras la lesi\u00f3n que pudieran haber afectado el hombro izquierdo.\n\n* **Operaci\u00f3n de apendicitis hace 21 a\u00f1os:**  Esta intervenci\u00f3n no presenta una relaci\u00f3n directa con la patolog\u00eda actual del hombro.\n\n\n**Ausencia de antecedentes traum\u00e1ticos en el hombro izquierdo:** La historia cl\u00ednica especifica la ausencia de accidentes relacionados con el hombro izquierdo.  Esto sugiere que la tendinitis es probablemente de origen degenerativo o por sobreuso, en lugar de ser traum\u00e1tica.\n\n\n**Factores predisponentes:**  Aunque la historia cl\u00ednica no detalla expl\u00edcitamente factores predisponentes como actividades laborales o deportivas de alta demanda que podr\u00edan causar sobreuso,  la duraci\u00f3n del dolor (4 a\u00f1os) y su agravamiento reciente sugieren un proceso cr\u00f3nico posiblemente relacionado con  microtraumas repetitivos o  postura inadecuada mantenida durante largos periodos.  La informaci\u00f3n disponible es insuficiente para determinar con certeza estos factores predisponentes.  Se recomienda una anamnesis m\u00e1s detallada sobre la actividad f\u00edsica, laboral y h\u00e1bitos posturales del paciente para identificar posibles factores contribuyentes.\n\n\n**Conclusi\u00f3n:**\n\nSi bien no existen antecedentes traum\u00e1ticos directos en el hombro izquierdo, la fractura de c\u00fabito y radio derecho podr\u00eda ser un factor indirecto a considerar. La ausencia de informaci\u00f3n detallada sobre la actividad f\u00edsica y laboral del paciente limita la identificaci\u00f3n de otros factores predisponentes. Se recomienda una exploraci\u00f3n m\u00e1s exhaustiva de estos aspectos para completar el an\u00e1lisis y apoyar el diagn\u00f3stico de tendinitis. La resonancia magn\u00e9tica, prevista en dos semanas, ser\u00e1 crucial para confirmar el diagn\u00f3stico y descartar otras patolog\u00edas.\n"
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "avg_logprobs": -0.3093890723341214
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 1013,
+        "candidates_token_count": 499,
+        "total_token_count": 1512
+      }
+    }),
+)
+2024-11-14 14:13:52,726 - DEBUG - #Assistant output: Según el informe, el paciente tiene antecedentes de una fractura de cúbito y radio en el brazo derecho, estabilizada con placas hace 10 años, lo que podría haber influido en la postura y biomecánica del paciente, generando sobrecarga en el hombro izquierdo. Además, no hay antecedentes traumáticos directos en el hombro izquierdo, lo que sugiere que la tendinitis es probablemente de origen degenerativo o por sobreuso.

@@ -93,7 +93,7 @@ class chat_planner_agent(BaseAgent):
             Dada la siguiente pregunta del doctor: {query}
             Y el siguiente informe provisto por otro analista en medicina, relacionado con el paciente y la pregunta del doctor: {information}
 
-continua el dialogo de forma natual y cientifica usando esos datos. Las respuestas deben ser concisas, tres o cuatro frases al maximo, para que sea una cantidad de texto concisa para uso medicinal, justifica tus respuestas con los datos del informe de su historia clinica  de manera simple.
+continua el dialogo de forma natual y cientifica respondiendo en el contexto de historia clinica presentada en el informe. Las respuestas deben ser concisas, tres o cuatro frases al maximo, para que sea una cantidad de texto concisa para uso medicinal, justifica tus respuestas con los datos del informe de su historia clinica de manera simple.
         """, "system")
         
         generate_answer_formatter.add_raw("{messages}\n")
@@ -207,7 +207,7 @@ ATENCION, SI EL MEDICO HABLA DE OTROS TEMAS QUE NO SEA UNA CONSULTA MEDICA SOBRE
         #print("#12", message_formatter.prompt)
         #analysis_choice = self.analyze_user_question_chain.invoke({"messages": message_formatter.prompt,"birthchart": birthchart,"query":query})
         #chat_planner_choice = analysis_choice["choice"]
-        long_question = """Eres un experto en medicina analisis de historias clinicas que ayuda medicos para diagnosticar. 
+        long_question = f"""Eres un experto en medicina analisis de historias clinicas que ayuda medicos para diagnosticar. 
         Veras un dialogo entre un asistente en medicina y un doctor en medicina acerca de un paciente, al final del dialogo podras entender la pregunta completa del medico y su contexto relacionado. 
         Puedes ver tambien la historia clinica del paciente persente en este dialogo.
 
