@@ -168,22 +168,42 @@ Aqui la consulta del medico (ATENCION, esto es lo que hay que responder)
         query = state['query']
         message_formatter = PromptFormatter("Llama3")
         
-        # Tomar solo los últimos 3 mensajes
-        last_three_messages = messages[-4:-1]
-        
-        for message in last_three_messages:
-            message_formatter.add_message(message['content'],message['role'])
-        
-        print("#63 last messagest checked",message_formatter.prompt)
-        print("#64 query sent ",query)
-        
-        check_choice = self.check_stage_chain.invoke({"messages": message_formatter.prompt,"query":query})
+        # Lógica para los casos especiales del query
+        if query == "RESUMEN DEL HISTORIAL":
+            check_choice = "PASS"
+            query = "Realiza un resumen de la historia clinica del paciente"
+            print("#63 last messagest checked (special case)", message_formatter.prompt)
+            print("#64 query sent (special case)", query)
+        elif query == "SUGERENCIAS DE DIAGNÓSTICO":
+            check_choice = "PASS"
+            query = "Realiza sugerencias de diagnostico basado en el historial del cliente y lo que se viene considerando."
+            print("#63 last messagest checked (special case)", message_formatter.prompt)
+            print("#64 query sent (special case)", query)
+        elif query == "SUGERIR TRATAMIENTO":
+            check_choice = "PASS"
+            query = "Realiza sugerencias de diagnostico basado en la consulta actual y teniendo en cuenta el historial clinico"
+            print("#63 last messagest checked (special case)", message_formatter.prompt)
+            print("#64 query sent (special case)", query)
+        else:
+            # Tomar solo los últimos 3 mensajes
+            last_three_messages = messages[-4:-1]
+            
+            for message in last_three_messages:
+                message_formatter.add_message(message['content'], message['role'])
+            
+            print("#63 last messagest checked", message_formatter.prompt)
+            print("#64 query sent ", query)
+            
+            # Realizar el chequeo normal si no es un caso especial
+            check_choice = self.check_stage_chain.invoke({"messages": message_formatter.prompt, "query": query})
         
         information = ""
         if check_choice == "REJECT":
             information = "Reject the question because is not related to a medical consultancy."
-        print("#88 check result ",check_choice," ------ ", information)
-        return {"check_choice": check_choice,"analysis_choice":information}
+        
+        print("#88 check result ", check_choice, " ------ ", information)
+        return {"check_choice": check_choice, "analysis_choice": information, "query": query}
+
 
 
 

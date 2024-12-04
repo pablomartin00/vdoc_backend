@@ -1,0 +1,134 @@
+2024-12-01 00:49:43,136 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Fecha:** 11/04/2018
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la Historia Clínica:**
+
+El paciente, un hombre de 41 años, presenta dolor en el hombro izquierdo que se extiende a codo y muñeca. El dolor comenzó hace 4 años y ha empeorado con el tiempo. El paciente refiere que el dolor es mayor al andar y al flexionar el hombro con peso. No presenta dolor en reposo ni adormecimiento de los dedos de la mano.
+
+**Análisis de la Historia Clínica:**
+
+La historia clínica del paciente sugiere una lesión musculotendinosa en el hombro izquierdo. El dolor en la zona del deltoides y la limitación de la movilidad en la flexión y abducción sugieren una posible tendinitis. La ausencia de dolor en reposo y la falta de adormecimiento de los dedos de la mano descartan una lesión nerviosa.
+
+**Diagnóstico Diferencial:**
+
+* Tendinitis del hombro izquierdo
+* Lesión musculotendinosa en el hombro izquierdo
+* Artritis del hombro izquierdo
+
+**Recomendaciones:**
+
+* Se recomienda realizar una resonancia magnética para confirmar el diagnóstico de tendinitis del hombro izquierdo.
+* Se recomienda continuar con el tratamiento actual de antiinflamatorio y reposo durante 2 semanas.
+* Se recomienda realizar un seguimiento en 2 semanas para evaluar la evolución del paciente.
+
+**Conclusión:**
+
+La historia clínica del paciente sugiere una lesión musculotendinosa en el hombro izquierdo, probablemente una tendinitis. Se recomienda realizar una resonancia magnética para confirmar el diagnóstico y continuar con el tratamiento actual. Se recomienda un seguimiento en 2 semanas para evaluar la evolución del paciente.
+2024-12-01 00:49:44,091 - DEBUG - #Assistant output: Doctor, el paciente Antonio Paciente Demo presenta dolor en el hombro izquierdo que se extiende a codo y muñeca, con una duración de 4 años y empeoramiento con el tiempo. El dolor es mayor al andar y flexionar el hombro con peso, sin dolor en reposo ni adormecimiento de los dedos de la mano. Se sospecha una lesión musculotendinosa en el hombro izquierdo, probablemente una tendinitis.
+2024-12-01 00:57:28,941 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Edad:** 41 años
+**Sexo:** Hombre
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la Historia Clínica:**
+
+El paciente presenta dolor en el hombro izquierdo que se extiende a codo y muñeca, con una evolución de 4 años. El dolor es mayor al andar y al flexionar el hombro con peso, pero no se presenta en reposo. El paciente no tiene antecedentes de accidentes, pero sí tiene una historia de rotura de cúbito y radio en el brazo derecho y una operación de apendicitis.
+
+**Análisis de la Historia Clínica:**
+
+La historia clínica del paciente sugiere que el dolor en el hombro izquierdo puede estar relacionado con una lesión o inflamación en la zona del deltoides. La limitación en la movilidad y el dolor en la flexión y abducción sugieren que el paciente puede tener una tendinitis o una lesión en el tendón del deltoides.
+
+**Diagnóstico por Imagen:**
+
+No se ha realizado un diagnóstico por imagen inicialmente, pero se considerará la posibilidad de realizar una resonancia magnética en dos semanas si la evolución del paciente no mejora.
+
+**Plan de Tratamiento:**
+
+El plan de tratamiento actual incluye antiinflamatorio y reposo durante 2 semanas, así como masaje. Sin embargo, es importante considerar la posibilidad de realizar un diagnóstico por imagen para confirmar el diagnóstico de tendinitis y descartar otras posibles causas del dolor.
+
+**Recomendaciones:**
+
+1. Realizar un diagnóstico por imagen (resonancia magnética) para confirmar el diagnóstico de tendinitis y descartar otras posibles causas del dolor.
+2. Continuar con el plan de tratamiento actual (antiinflamatorio y reposo) y agregar terapia física para mejorar la movilidad y reducir el dolor.
+3. Considerar la posibilidad de realizar una inyección de corticosteroides en la zona del deltoides si el dolor no mejora con el tratamiento actual.
+
+**Conclusión:**
+
+La historia clínica del paciente sugiere que el dolor en el hombro izquierdo puede estar relacionado con una lesión o inflamación en la zona del deltoides. Es importante realizar un diagnóstico por imagen para confirmar el diagnóstico de tendinitis y descartar otras posibles causas del dolor. El plan de tratamiento actual debe ser continuado y considerar la posibilidad de agregar terapia física y otras opciones de tratamiento si el dolor no mejora.
+2024-12-01 00:57:29,790 - DEBUG - #Assistant output: El paciente Antonio Paciente Demo, de 41 años, presenta dolor en el hombro izquierdo que se extiende a codo y muñeca, con una evolución de 4 años. El dolor es mayor al andar y al flexionar el hombro con peso, pero no se presenta en reposo. La historia clínica sugiere una posible lesión o inflamación en la zona del deltoides, con un diagnóstico probable de tendinitis.
+2024-12-01 00:57:36,802 - DEBUG - #Chat planner choice: **Informe Técnico Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Edad:** 41 años
+**Sexo:** Hombre
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la Historia Clínica:**
+
+El paciente presenta dolor en el hombro izquierdo que se extiende a codo y muñeca, con una evolución de 4 años. El dolor es mayor al andar y al flexionar el hombro con peso, pero no se presenta en reposo. La historia clínica sugiere una posible lesión o inflamación en la zona del deltoides.
+
+**Análisis de la Información:**
+
+* El dolor en el hombro izquierdo que se extiende a codo y muñeca sugiere una posible lesión o inflamación en la zona del deltoides.
+* La evolución de 4 años sugiere que el dolor puede ser crónico.
+* La ausencia de dolor en reposo y la presencia de dolor al flexionar el hombro con peso sugieren que el dolor puede estar relacionado con la actividad física.
+* La historia clínica no menciona accidentes o lesiones previas que puedan estar relacionadas con el dolor.
+
+**Diagnóstico Probable:**
+
+* Tendinitis del hombro izquierdo
+
+**Justificación del Diagnóstico:**
+
+* La presencia de dolor en el hombro izquierdo que se extiende a codo y muñeca sugiere una lesión o inflamación en la zona del deltoides.
+* La evolución crónica del dolor sugiere que el dolor puede ser debido a una tendinitis.
+* La ausencia de dolor en reposo y la presencia de dolor al flexionar el hombro con peso sugieren que el dolor puede estar relacionado con la actividad física.
+
+**Recomendaciones:**
+
+* Realizar una resonancia magnética para confirmar el diagnóstico de tendinitis.
+* Recomendar un tratamiento de fisioterapia para mejorar la movilidad y reducir el dolor.
+* Recomendar un tratamiento con antiinflamatorios para reducir la inflamación y el dolor.
+
+**Conclusión:**
+
+El paciente presenta un dolor crónico en el hombro izquierdo que se extiende a codo y muñeca, que sugiere una lesión o inflamación en la zona del deltoides. El diagnóstico probable es tendinitis del hombro izquierdo. Se recomienda realizar una resonancia magnética para confirmar el diagnóstico y un tratamiento de fisioterapia y antiinflamatorios para reducir el dolor y mejorar la movilidad.
+2024-12-01 00:57:37,485 - DEBUG - #Assistant output: El diagnóstico probable es tendinitis del hombro izquierdo, debido a la presencia de dolor crónico en la zona del deltoides y la relación con la actividad física. Se sugiere realizar una resonancia magnética para confirmar el diagnóstico.
+2024-12-01 00:57:42,138 - DEBUG - #Chat planner choice: **Informe Médico**
+
+**Paciente:** Antonio Paciente Demo
+**Edad:** 41 años
+**Sexo:** Hombre
+**Motivo de Consulta:** Dolor en el hombro izquierdo
+
+**Resumen de la Historia Clínica:**
+
+El paciente presenta dolor en el hombro izquierdo que se extiende a codo y muñeca, con una evolución de 4 años. El dolor es mayor al andar y al flexionar el hombro con peso, pero no se presenta en reposo. La historia clínica sugiere una posible lesión o inflamación en la zona del deltoides.
+
+**Diagnóstico Probable:**
+
+* Tendinitis del hombro izquierdo
+
+**Tratamiento Recomendado:**
+
+* Antiinflamatorio y reposo durante 2 semanas
+* Masaje
+* Considerar la posibilidad de realizar resonancia magnética en 2 semanas si no hay mejoría
+
+**Justificación del Tratamiento:**
+
+El tratamiento recomendado se basa en la historia clínica del paciente y en la probable causa del dolor. La tendinitis es una inflamación de los tendones que puede ser causada por la repetición de movimientos o por lesiones. El reposo y el antiinflamatorio pueden ayudar a reducir la inflamación y el dolor. El masaje puede ayudar a mejorar la circulación y a reducir la tensión muscular.
+
+**Seguimiento:**
+
+Se recomienda una nueva visita en 2 semanas para evaluar la evolución del paciente y considerar la posibilidad de realizar resonancia magnética si no hay mejoría.
+
+**Conclusión:**
+
+El paciente presenta un dolor en el hombro izquierdo que se extiende a codo y muñeca, probablemente causado por tendinitis. El tratamiento recomendado es antiinflamatorio y reposo durante 2 semanas, masaje y considerar la posibilidad de realizar resonancia magnética en 2 semanas si no hay mejoría. Se recomienda una nueva visita en 2 semanas para evaluar la evolución del paciente.
+2024-12-01 00:57:54,204 - DEBUG - #Assistant output: Se recomienda tratamiento conservador con antiinflamatorio y reposo durante 2 semanas, acompañado de masaje para reducir la inflamación y mejorar la circulación. Si no hay mejoría, se considerará la realización de una resonancia magnética para evaluar la necesidad de un tratamiento más específico.
